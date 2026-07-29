@@ -1,9 +1,13 @@
 [project]
-name = "<cache-name>"
+name = "valid-nwb-file-to-out-degrees"
 version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
     "datalad",
     "datalad-container",
-    # TODO: add this cache's processing dependencies used by code/update.py.
+    # Processing dependencies used by code/update.py. HDF5 NWB files are streamed directly
+    # from S3 with remfile + h5py; numpy computes the out-degree summary statistics.
+    "h5py",
+    "numpy",
+    "remfile",
 ]
