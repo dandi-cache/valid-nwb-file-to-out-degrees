@@ -1,0 +1,941 @@
+2026-10-27T16:59:26Z INFO Logging to /tmp/logs/update_2026-10-27T16-59-26Z.log.
+2026-10-27T16:59:26Z INFO Update valid-nwb-file-to-out-degrees (base directory /tmp).
+2026-10-27T16:59:28Z INFO Processing 854 items (180301 already recorded).
+2026-10-27T16:59:29Z INFO [1/854] 0005779b-e6b5-433e-99c3-38a008778cbd: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T16:59:31Z INFO [2/854] 0009bc65-7dff-475d-b689-4c5e24f01caf: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T16:59:34Z INFO [3/854] 000eedec-d9e0-4588-9643-0101e3349dd1: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T16:59:35Z INFO [4/854] 0014e5e0-5889-4a36-a60e-18db9080ff68: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T16:59:36Z INFO [5/854] 0023631b-40c1-4f04-b442-0adb5908f4b8: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T16:59:37Z INFO [6/854] 004981cb-1c7c-4ee3-a55b-13ca90efe1d2: 31 internal nodes; 1.0 s; peak memory 278 MiB.
+2026-10-27T16:59:39Z INFO [7/854] 005097eb-0d04-419a-aa98-120dd339f227: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T16:59:40Z INFO [8/854] 00555c2e-4d18-4128-acc7-dbd6e398888e: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T16:59:42Z INFO [9/854] 0057f677-0f9f-4675-9478-65e1bd6149c5: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T16:59:43Z INFO [10/854] 0061092c-53fb-4d85-be3c-9224f0c85f47: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T16:59:45Z INFO [11/854] 0063ebdd-2f4a-41dd-bc2f-99a8d7cc357f: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T16:59:46Z INFO [12/854] 00650138-a60e-4891-a124-e65f12f6e7e5: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T16:59:47Z INFO [13/854] 0069e280-86ef-4283-8d41-f6510afe8e4e: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T16:59:48Z INFO [14/854] 006a7a5c-aa03-4a85-9531-bc19dde14a2b: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T16:59:50Z INFO [15/854] 0073e005-58eb-4347-910f-44d7816b45b6: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T16:59:51Z INFO [16/854] 008c5926-b61d-4e7a-bebe-ba437e0d042e: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T16:59:53Z INFO [17/854] 0092090f-a378-4909-a299-3573bb79853a: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T16:59:54Z INFO [18/854] 009c0c24-7506-4858-b6d5-07e5daaf3848: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T16:59:56Z INFO [19/854] 00afc75c-e1d6-4f96-b1b6-f8a818cd10e4: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T16:59:57Z INFO [20/854] 00c9d488-453e-40fa-bcee-bc4241a3dec7: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T16:59:59Z INFO [21/854] 00d6e510-65dc-494e-8f25-fff725905a17: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:00:00Z INFO [22/854] 00d7263e-53ee-4ae5-96b9-f0534e857129: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:00:02Z INFO [23/854] 00d9292d-5c88-4278-84a6-c04e4d93ed0c: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:00:04Z INFO [24/854] 00dc595c-e322-4c32-aa72-1d07f182ea12: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:00:05Z INFO [25/854] 00e84419-0264-4759-bc3d-a3e60480de33: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:00:07Z INFO [26/854] 00f06a89-f7b5-490e-a37a-7cd8923e12ee: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:00:09Z INFO [27/854] 00f96c9f-48c2-4f61-bf11-ffdbf7003c11: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:00:10Z INFO [28/854] 010e7065-a02a-4523-89b5-c608134eed0e: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:00:12Z INFO [29/854] 011d21f7-5edf-4bb9-ab06-02f8dc1a32f5: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:00:14Z INFO [30/854] 0140fd11-1e21-4dee-994f-a98368eb2386: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:00:15Z INFO [31/854] 015af43b-c31a-4af5-a6b1-48030f3978ff: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:00:17Z INFO [32/854] 015fead2-0d05-484a-89a6-280ff9c368b5: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:00:19Z INFO [33/854] 01683c64-4520-4c7d-ae14-e8cd1999f094: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:00:20Z INFO [34/854] 016ee534-22a5-4131-8bdf-1ed66eca4a19: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:00:22Z INFO [35/854] 01767ffe-7d1d-454b-a437-028e571e8f54: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:00:23Z INFO [36/854] 0179bf51-e148-4e07-8e26-25bc37a764df: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:00:26Z INFO [37/854] 017ba76f-8b6b-43a4-8769-3fb7f42c4944: 31 internal nodes; 2.5 s; peak memory 278 MiB.
+2026-10-27T17:00:27Z INFO [38/854] 01808062-d9d6-4249-a44c-1e0cf1ff5d00: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:00:29Z INFO [39/854] 01956bf6-ff80-43cb-9cd7-6b6493280eb6: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:00:30Z INFO [40/854] 0198d739-bab1-4729-8251-a90361452325: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:00:33Z INFO [41/854] 019d51b0-d000-4ab2-b741-b4c94b49e9d6: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:00:34Z INFO [42/854] 01a76696-5edc-4bf0-b59f-8c83192c2ef0: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:00:35Z INFO [43/854] 01a8ea66-1d57-420e-8a9c-520130ea1be4: 31 internal nodes; 1.0 s; peak memory 278 MiB.
+2026-10-27T17:00:37Z INFO [44/854] 01a90068-bf45-41eb-8e80-6ee0ae6f02f7: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:00:39Z INFO [45/854] 01b73f9e-a478-4698-8b42-b1c7a43e0608: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:00:40Z INFO [46/854] 01b937ae-7e7e-4cea-a0d8-4993f53c7433: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:00:42Z INFO [47/854] 01c1ac93-6893-4b8f-aa31-ba7e20767b15: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:00:43Z INFO [48/854] 01cc1f4c-891b-4be4-bb17-c44a2b343184: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:00:45Z INFO [49/854] 01cda0be-c228-4cf1-8d01-8152b67a99f5: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:00:46Z INFO [50/854] 01d6c62b-75d7-46f2-99ad-aaa7323ba8fe: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:00:46Z INFO [50/854] 01d6c62b-75d7-46f2-99ad-aaa7323ba8fe: checkpointed 180351 new records.
+2026-10-27T17:00:48Z INFO [51/854] 01d8a2da-03eb-4e36-b890-430653d5c91f: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:00:49Z INFO [52/854] 01e452d1-85bb-4a8c-8652-d3d9454c84b6: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:00:51Z INFO [53/854] 01e4889a-a0cb-482c-a514-654d99070c5f: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:00:52Z INFO [54/854] 02009128-3e55-482e-9ef7-965c635ce8ef: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:00:54Z INFO [55/854] 02224a1c-a08e-4ac3-a2c7-83c4520d4cd0: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:00:55Z INFO [56/854] 02298a51-f2a1-4e6f-955c-8cd0fd71652c: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:00:57Z INFO [57/854] 023743ac-e46b-42fb-851c-59e45f2d601b: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:00:58Z INFO [58/854] 02393899-8d0a-4286-830b-ea8ab20e0d23: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:01:00Z INFO [59/854] 023adbbb-d734-4659-a744-e6a92fad8171: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:01:01Z INFO [60/854] 02450cc6-20ca-4e1a-812d-58d34ef4f9ec: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:01:04Z INFO [61/854] 024ea50d-b5a0-42f8-b684-913cd8e76359: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:01:05Z WARNING 024ef50f-ac6f-49ea-806b-93ef4b5e8644: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:01:05Z WARNING [62/854] 024ef50f-ac6f-49ea-806b-93ef4b5e8644: leaving unrecorded for a later run to retry.
+2026-10-27T17:01:07Z INFO [63/854] 0255a2d2-1fdc-4ffe-ac66-2b204467e874: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:01:09Z INFO [64/854] 0256931c-f0a6-4455-83a5-25866a658fd9: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:01:11Z INFO [65/854] 02760492-4e2f-4ec3-88ef-32a71bfe50df: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:01:12Z INFO [66/854] 027d453f-956e-40e6-8654-121aca527eb0: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:01:14Z INFO [67/854] 028ddb51-f113-43bb-a51e-a8c0270a247e: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:01:15Z INFO [68/854] 029bc33a-8533-4c96-bb48-1525d123a7ff: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:01:17Z INFO [69/854] 02a3ed56-7d09-4ea0-b0b2-29c8f8b380ac: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:01:19Z INFO [70/854] 02a4debd-02b1-453a-a8dc-67a00bbac272: 31 internal nodes; 2.6 s; peak memory 278 MiB.
+2026-10-27T17:01:21Z INFO [71/854] 02c93e86-0553-4347-8519-b0172ab56e9a: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:01:23Z INFO [72/854] 02ebfb16-b56c-478d-9cb6-38bc29d0995c: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:01:24Z INFO [73/854] 02f1e2ef-16ec-45c5-85f4-b7bd168a0220: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:01:26Z INFO [74/854] 02f2b480-8558-4c6d-b43f-77c80501b15c: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:01:28Z INFO [75/854] 03172fff-f21b-47af-b5cc-e14f68aeeda3: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:01:29Z INFO [76/854] 0329d127-5470-4794-8a6b-f9c6df1d3af7: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:01:31Z INFO [77/854] 033b665e-761c-440c-8170-8046c5f50d16: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:01:33Z INFO [78/854] 034a2cd8-c2c3-4403-b581-fbb854d88aaa: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:01:35Z INFO [79/854] 034a9aec-684c-47f2-8f9e-c8d4d1538f15: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:01:37Z INFO [80/854] 0359731d-a069-4ce1-8025-7fbf88e4357a: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:01:38Z INFO [81/854] 035b9a1a-a861-4cb7-9457-4ab6504ef596: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:01:39Z INFO [82/854] 035d1f10-b39c-408c-9f55-6403df3c55a7: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:01:42Z INFO [83/854] 03679959-a0eb-45c1-882e-110f700ad13e: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:01:43Z INFO [84/854] 0369ed61-8e05-4a2b-b80c-683b7ddfdc20: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:01:45Z INFO [85/854] 036cbe25-7411-42ba-b51a-f07dd5327413: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:01:46Z INFO [86/854] 0379827c-bf4f-49fe-a5f3-869fdad4c023: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:01:48Z INFO [87/854] 037c0044-6455-45e5-b7fe-a02a4db468a7: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:01:49Z INFO [88/854] 038a0b93-f208-422a-a1e5-16b8827350d0: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:01:51Z INFO [89/854] 038a38c6-4ed6-44e7-9370-9c827500009f: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:01:53Z INFO [90/854] 0390d84a-3382-44b1-a5da-e7406360086a: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:01:55Z INFO [91/854] 039a06cc-abbc-4cfb-a957-f3dd194f7897: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:01:56Z INFO [92/854] 03a5a9eb-5ef7-49fe-88ba-273a179ab070: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:01:58Z INFO [93/854] 03b38fbb-2a54-4e75-8776-cc100d2e30b7: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:02:00Z INFO [94/854] 03b43f94-f648-4111-b6a6-1762cc93a2e2: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:02:01Z INFO [95/854] 03ceb216-12d1-40c5-9975-ed87f9249d02: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:02:03Z INFO [96/854] 03d9b974-4b81-4aff-ac4b-a39bad16ed8f: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:02:04Z INFO [97/854] 03efd538-5143-4586-be9a-98061b54ee73: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:02:05Z INFO [98/854] 03f40ef8-a656-4537-838f-6f3c01bc1394: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:02:07Z INFO [99/854] 041afc0d-3920-4433-9a86-c168e7c60bd8: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:02:09Z INFO [100/854] 0423529d-db2b-4941-a32f-6d700025af2a: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:02:09Z INFO [100/854] 0423529d-db2b-4941-a32f-6d700025af2a: checkpointed 180400 new records.
+2026-10-27T17:02:10Z INFO [101/854] 0427e135-423a-47f5-a764-6518a7b5f368: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:02:11Z INFO [102/854] 042c9162-b873-4a14-82cc-811e2be39d46: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:02:13Z INFO [103/854] 043312a6-c3d6-422b-a17f-67aa905e1d7e: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:02:15Z INFO [104/854] 043785cd-baba-4a0e-b39d-96cb42d2d2a8: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:02:16Z INFO [105/854] 044bb8c9-9994-492d-98a3-cc7bb19fdc5b: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:02:17Z INFO [106/854] 04552e13-7e0f-4450-8855-ab1f27c47622: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:02:19Z INFO [107/854] 0461be47-e42d-4cdb-a761-0bcaec8dc428: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:02:21Z INFO [108/854] 04716f97-fd9c-4b22-8239-16423c0805e2: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:02:23Z INFO [109/854] 048848e3-ac58-41bd-a682-9c815d939308: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:02:25Z INFO [110/854] 049194f7-1724-4c47-a9cf-87103d2b2349: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:02:27Z INFO [111/854] 0499e041-be14-431d-97e5-9039620c2582: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:02:29Z INFO [112/854] 04a172b5-5e58-44f7-95af-229b34f382af: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:02:30Z INFO [113/854] 04aa7bc7-2451-4c56-9b1d-387096f1f659: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:02:32Z INFO [114/854] 04af9131-26e9-4b38-a550-6a8f31403140: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:02:34Z INFO [115/854] 04b1b46d-2677-4406-b015-c4b45fc68051: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:02:35Z INFO [116/854] 04cef4a7-e16b-4944-8a22-88c960ccdefd: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:02:37Z INFO [117/854] 04d6a29a-4b5e-456b-92d1-182dba3897b9: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:02:39Z INFO [118/854] 04dc95f1-8931-4149-8dbe-d6c862053be8: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:02:40Z INFO [119/854] 04e3e8cc-93fa-4691-a95b-bd52cd240552: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:02:42Z INFO [120/854] 04e55f63-8aea-4704-aae1-c0f6e37ce9f4: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:02:43Z INFO [121/854] 04e6f05e-a8eb-47fb-aeb7-c38ce78aca51: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:02:45Z INFO [122/854] 04fa76e3-44fd-47c7-a27f-e7079f072b87: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:02:47Z INFO [123/854] 04fb3bb3-9619-4322-9e1d-5d8ad0e01500: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:02:48Z INFO [124/854] 04fda67d-dd49-419b-aad5-9473a3993e3e: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:02:50Z INFO [125/854] 05079cba-54d6-4b86-9a43-c5a07c0726ef: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:02:52Z INFO [126/854] 051c9cad-7094-4ed4-bb0e-d8536ecb98e1: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:02:53Z INFO [127/854] 052b0d7e-9e79-4f93-8904-452d1167c380: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:02:55Z INFO [128/854] 052c0817-7334-49a0-863a-fc5caf7e729a: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:02:57Z INFO [129/854] 052ec1c9-6e26-4242-94ad-4a20b0cc9556: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:02:59Z INFO [130/854] 05359f45-e44f-4c21-ad0e-c2712267cee5: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:03:00Z INFO [131/854] 05447da5-1042-4355-b355-45307b59cc43: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:03:02Z INFO [132/854] 0553f811-e7b7-424f-b01b-216961e8b496: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:03:04Z INFO [133/854] 0554b9fd-a4d5-492d-8565-4a31c2cce2ec: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:03:05Z INFO [134/854] 05598da4-14ff-471f-86f6-0045622ec685: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:03:07Z INFO [135/854] 056739f4-7a2f-4a36-a937-d6b77b0bbf8e: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:03:08Z INFO [136/854] 056dac50-7e5c-46f2-86bc-df66cf6edf92: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:03:10Z INFO [137/854] 0573e3ee-d9b0-4440-aa64-59160a882b24: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:03:11Z INFO [138/854] 0585cccc-ca6d-450d-b26b-4b8f7e6a6bf3: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:03:14Z INFO [139/854] 0599b820-6351-426f-ade9-9655dcc0b86b: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:03:15Z INFO [140/854] 05a22a6c-adfd-4b79-aed5-29c2f3a78820: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:03:16Z INFO [141/854] 05a91f42-457e-4546-9a4e-2971809da1de: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:03:18Z INFO [142/854] 05a95124-998b-4567-9082-05127a32de2a: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:03:20Z INFO [143/854] 05b77785-85da-4850-ba50-d19b0bafc8c6: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:03:21Z INFO [144/854] 05c40747-9582-4a4e-89e6-e08288df3adf: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:03:22Z INFO [145/854] 05cd5a1a-e2e7-4b00-b18a-1a75b1514874: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:03:24Z INFO [146/854] 05d903cf-3f7e-4589-be17-5f698ef50fa5: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:03:26Z INFO [147/854] 060c55f1-8a0e-41d6-b30e-22cabe738e31: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:03:27Z INFO [148/854] 061791cc-7a91-4a4a-b106-f5f60772c8af: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:03:30Z INFO [149/854] 0625bfc5-abb6-4dff-b8d4-fa32c97466ac: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:03:31Z INFO [150/854] 0629eaec-144f-4bc6-a372-ed0d1cfe1760: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:03:31Z INFO [150/854] 0629eaec-144f-4bc6-a372-ed0d1cfe1760: checkpointed 180450 new records.
+2026-10-27T17:03:33Z INFO [151/854] 062ccfbd-1158-4908-b612-d7fb27fcf691: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:03:35Z INFO [152/854] 0630c9c4-ee9d-4f9c-9792-713347ec144b: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:03:37Z INFO [153/854] 064fdee2-d59a-430d-b6ad-12667b2b3654: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:03:38Z INFO [154/854] 0655a9a8-014e-4c86-af50-15d0521ed2ea: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:03:40Z INFO [155/854] 06787c72-ccaa-46d7-8e9c-b894f4830cc9: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:03:41Z INFO [156/854] 06880657-6a5f-4d10-8171-120734aa1410: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:03:42Z INFO [157/854] 06961909-056b-46ac-a3bd-29d03b408697: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:03:44Z INFO [158/854] 06a3a4e1-8d30-4b9c-9904-390b336b35c7: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:03:46Z INFO [159/854] 06af0b77-b129-4033-98eb-50a3728e2b0e: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:03:47Z INFO [160/854] 06bc0fe4-b51d-42bd-9137-4ce088c9a878: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:03:50Z INFO [161/854] 06bf6cda-4ef9-47c6-a6e2-143c0aa9f3e3: 31 internal nodes; 2.9 s; peak memory 278 MiB.
+2026-10-27T17:03:51Z INFO [162/854] 06c1db77-002b-4e10-a0ed-397148b32e4f: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:03:53Z INFO [163/854] 06e8f45f-ef20-4d82-9243-a5abbcba10bb: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:03:55Z INFO [164/854] 06f3bd2d-882a-490a-9e02-8b616459bb62: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:03:58Z INFO [165/854] 06f58c1e-bbb8-4666-bafd-58f9f647f248: 31 internal nodes; 3.0 s; peak memory 278 MiB.
+2026-10-27T17:03:59Z INFO [166/854] 06fe318b-d76c-4ee4-aafc-3417860ef23f: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:04:01Z INFO [167/854] 0707353b-92dc-4e08-8aca-98e463734544: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:04:02Z INFO [168/854] 0707bf62-d465-4a92-96c1-82878ef5ebcd: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:04:03Z INFO [169/854] 07085dbc-0b39-42b0-b9e6-e4e7e0d48832: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:04:05Z INFO [170/854] 071a7030-dd8f-4da6-90f1-8eb18f11f39c: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:04:06Z INFO [171/854] 0732b481-4e9a-4205-b9c4-89e230033ac5: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:04:08Z INFO [172/854] 07493ae7-16e0-4f40-89f6-8aed125ed9e9: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:04:09Z INFO [173/854] 074c2fea-1718-4585-a969-ee1f26e11ed8: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:04:11Z INFO [174/854] 074dea0d-ef19-47ca-a324-41b95448ab14: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:04:13Z INFO [175/854] 0756355e-c2ac-40fe-ab29-19ad943eef92: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:04:15Z INFO [176/854] 0758b161-974d-41bb-94eb-d6da82215f25: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:04:17Z INFO [177/854] 07596996-1413-47fa-950b-cbd6ea49943c: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:04:18Z INFO [178/854] 075a3d94-7646-46a8-9730-6a3b193e031b: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:04:20Z INFO [179/854] 075e68b9-54b8-46a9-888c-1cadcd772338: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:04:21Z INFO [180/854] 076dce91-069f-42d3-8f75-da6a6f9ac697: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:04:23Z INFO [181/854] 07718d27-d872-4d62-b672-7f2df0c3c30c: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:04:24Z INFO [182/854] 077e7983-74f1-4fa6-8179-4f307ebc5242: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:04:25Z INFO [183/854] 0787e4d0-ec1b-469f-8ac4-e80880b517a5: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:04:27Z INFO [184/854] 0793623d-dacc-4102-8d90-bddac543303a: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:04:29Z INFO [185/854] 07990b3c-97eb-41d7-81e1-49841c9181ee: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:04:30Z INFO [186/854] 07b1280b-6bb5-41d7-974d-faf41f402d87: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:04:32Z INFO [187/854] 07c6e07a-965f-4b60-9c78-bc8bb1eb1e5e: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:04:34Z INFO [188/854] 07d60723-4db7-4097-bdd0-19610427722b: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:04:35Z INFO [189/854] 07d8e496-e500-430c-b6e7-39ed57fb8dfc: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:04:37Z INFO [190/854] 07fef387-8c6e-4160-9d2c-c9d3a97e602c: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:04:39Z INFO [191/854] 080bb268-478b-482a-8be1-961b593d24ee: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:04:41Z INFO [192/854] 082f6a04-1a71-4a1c-a1de-d3a247a53ed5: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:04:42Z INFO [193/854] 0843f112-3b3c-467a-ac02-b73bb341a310: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:04:44Z INFO [194/854] 085b6410-a1e3-406c-880e-f6571959b5dd: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:04:46Z INFO [195/854] 085eea11-831c-42df-9e10-4c0fb21ef88c: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:04:47Z INFO [196/854] 086a4f84-6f87-48b3-81da-577c886e3fdd: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:04:49Z INFO [197/854] 08737b40-a3ef-4754-9125-82dd9a5bc037: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:04:51Z INFO [198/854] 0892e68f-8b88-4fe0-a632-32ff2f6fe3ad: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:04:52Z INFO [199/854] 08ad6eec-2c00-4b60-a8ee-6ddf093f0fee: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:04:53Z INFO [200/854] 08b04814-5b85-4b57-a676-7e690091f5e0: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:04:53Z INFO [200/854] 08b04814-5b85-4b57-a676-7e690091f5e0: checkpointed 180500 new records.
+2026-10-27T17:04:56Z INFO [201/854] 08bd0066-e455-4b5a-9a5d-895580bf488b: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:04:57Z INFO [202/854] 08c4d99f-acba-4189-8a72-eb47aa6ea45a: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:04:59Z INFO [203/854] 08d83776-eccc-47ef-a097-be882262068a: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:05:00Z INFO [204/854] 08e05352-4218-438e-aab9-511fa293e53b: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:05:01Z INFO [205/854] 08f4c78b-e105-4d03-aff0-9e0f15f7c0c6: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:05:04Z INFO [206/854] 08f6f81f-bf12-44a8-9b0f-145463ea5aba: 31 internal nodes; 2.4 s; peak memory 278 MiB.
+2026-10-27T17:05:06Z WARNING 09073220-fbea-45d2-9a39-2cc61fcdc2a1: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:05:06Z WARNING [207/854] 09073220-fbea-45d2-9a39-2cc61fcdc2a1: leaving unrecorded for a later run to retry.
+2026-10-27T17:05:08Z INFO [208/854] 091516ff-8da5-4b7b-b7af-baae21f64e25: 31 internal nodes; 2.4 s; peak memory 278 MiB.
+2026-10-27T17:05:10Z INFO [209/854] 091fd7d1-31d1-4513-b04a-b55716af7354: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:05:14Z INFO [210/854] 092cfba5-015f-4036-86ac-b3fef1fff4f6: 31 internal nodes; 3.5 s; peak memory 278 MiB.
+2026-10-27T17:05:17Z INFO [211/854] 093adc89-32f3-4eb5-829b-daf7b66b70c6: 31 internal nodes; 3.0 s; peak memory 278 MiB.
+2026-10-27T17:05:18Z INFO [212/854] 0946b5f1-74e9-4d70-81c0-2eff9497ebd2: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:05:20Z INFO [213/854] 0956db4c-9fb7-4b9f-adcf-96f33f8eb081: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:05:23Z INFO [214/854] 095d6641-2336-4c20-9ec6-0013f815b9de: 31 internal nodes; 2.8 s; peak memory 278 MiB.
+2026-10-27T17:05:24Z INFO [215/854] 096239b8-e93b-45d7-a570-fb9c004fde5e: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:05:25Z INFO [216/854] 09662dd2-b607-4419-b1aa-02b0fece1af2: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:05:27Z INFO [217/854] 096c10d4-5b0c-4fc8-8c3c-ea05f6bbef46: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:05:29Z INFO [218/854] 097ee461-75fb-4678-b56b-87ebb35c47fb: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:05:30Z INFO [219/854] 098f7a65-444d-4e6b-9247-1be1441497a6: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:05:32Z INFO [220/854] 0993a416-509c-4ad0-98ba-8aee49e0a092: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:05:34Z INFO [221/854] 09b00e76-d756-4cc9-ab6d-8c8e149e389a: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:05:36Z INFO [222/854] 09b436fc-a97f-4f8a-988e-97b17fc0bd6c: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:05:42Z INFO [223/854] 09b6290d-3d4c-4a12-8587-db3e2102846e: 31 internal nodes; 6.7 s; peak memory 278 MiB.
+2026-10-27T17:05:44Z INFO [224/854] 09c0ad4f-6d32-4a6d-88bc-bfcee120e965: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:05:45Z INFO [225/854] 09c2a0a0-a9da-4568-9474-28ccc695d554: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:05:48Z INFO [226/854] 09d2862c-eef1-4bb5-9758-8e4e243d29e8: 31 internal nodes; 2.8 s; peak memory 278 MiB.
+2026-10-27T17:05:50Z INFO [227/854] 09ea80cf-00ec-4701-a91b-ea4f94dcde07: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:05:51Z INFO [228/854] 09f53a90-c4b7-4210-849b-646ee28d5426: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:05:53Z INFO [229/854] 09ff072c-199b-4541-8e2c-13d8c9127084: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:05:55Z INFO [230/854] 0a0e4703-f0e8-4d88-b638-86f8d5cb2f52: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:05:56Z INFO [231/854] 0a0f7814-f439-4a46-b9df-8efa5d2a3576: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:05:58Z INFO [232/854] 0a11fac2-726e-4202-adda-824d3677cabf: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:06:01Z INFO [233/854] 0a1202a8-7f74-4cee-ba9b-ee637275f335: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:06:02Z INFO [234/854] 0a1ac23f-f289-4513-bdfe-7a91ca828e09: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:06:04Z INFO [235/854] 0a25aaf2-9f4e-4939-9cf6-a52bc4694852: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:06:05Z INFO [236/854] 0a28e86f-9872-4b40-a3be-5fa3c30fe6e0: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:06:09Z INFO [237/854] 0a2e3b12-0172-4179-bace-4910d6abbb2e: 31 internal nodes; 3.3 s; peak memory 278 MiB.
+2026-10-27T17:06:10Z INFO [238/854] 0a7c9536-df21-485b-8114-48941dc8d59b: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:06:12Z INFO [239/854] 0a810b10-4ddb-4081-bf27-302cb16616d4: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:06:15Z INFO [240/854] 0a84d609-9ebb-4016-98b2-5bfdac2536db: 31 internal nodes; 3.1 s; peak memory 278 MiB.
+2026-10-27T17:06:17Z INFO [241/854] 0a8fcaf4-284d-4226-99a0-6654716badc7: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:06:21Z INFO [242/854] 0aa8fb4e-7a00-4acc-ba7a-f6dee30d8208: 31 internal nodes; 3.6 s; peak memory 278 MiB.
+2026-10-27T17:06:22Z INFO [243/854] 0aac50ad-c8b4-4f14-bef1-b555206b132c: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:06:24Z INFO [244/854] 0ab6e2fa-2b16-4013-b8cd-1d597647974b: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:06:26Z INFO [245/854] 0abb648a-cd69-41f6-b1a0-8406b7e1b968: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:06:27Z INFO [246/854] 0ac2c28a-8f7a-4c2b-9930-6af8bb45d318: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:06:29Z INFO [247/854] 0ac36424-29b2-4035-8f5e-2335bffcf47a: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:06:30Z INFO [248/854] 0ace77f6-6b98-4ae2-b92d-b5a8ea6bd911: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:06:32Z INFO [249/854] 0ad0278b-5113-4502-8ff4-035fe42c599f: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:06:34Z INFO [250/854] 0ae16263-9b7c-453c-9fbf-da64cfe002eb: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:06:34Z INFO [250/854] 0ae16263-9b7c-453c-9fbf-da64cfe002eb: checkpointed 180549 new records.
+2026-10-27T17:06:36Z INFO [251/854] 0af80e7e-ffdf-4e3b-b279-2d147f1f533f: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:06:38Z INFO [252/854] 0afeae9c-129e-4135-aae8-966683141b0d: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:06:40Z INFO [253/854] 0b0002dd-135d-4965-af04-e78f61b32608: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:06:41Z INFO [254/854] 0b2b7411-7b40-4487-bee3-c2330257e5a5: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:06:43Z INFO [255/854] 0b423525-0514-4afb-b1ca-ef8988e9515f: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:06:45Z INFO [256/854] 0b4b0488-56c0-4a33-a95b-1212dc24cd77: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:06:47Z INFO [257/854] 0b548813-d4c9-444e-83ad-7ef72bd88610: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:06:48Z INFO [258/854] 0b58d840-1297-4139-949c-d097b7ab6ef2: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:06:50Z INFO [259/854] 0b59dd89-f662-4bf0-a4ef-76201c7963c6: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:06:52Z INFO [260/854] 0b9409db-9016-4784-8c40-02da57dabc6f: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:06:54Z INFO [261/854] 0ba13e08-aa0c-43dc-aa63-df2069d130af: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:06:55Z INFO [262/854] 0ba170d0-888d-4a6c-816e-abea8f010b08: 31 internal nodes; 1.0 s; peak memory 278 MiB.
+2026-10-27T17:06:57Z INFO [263/854] 0ba1e844-4bcb-4e3e-8007-2045d9253f1c: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:06:58Z INFO [264/854] 0bab24d9-d2fd-47e1-a332-d4e20b783f87: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:07:00Z INFO [265/854] 0bba743b-684f-4ae1-9e4f-bc7c67a9fe49: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:07:01Z INFO [266/854] 0bc16cb6-1345-4c52-b02f-d5cd4e900eb3: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:07:03Z INFO [267/854] 0bc3fd9e-4dc0-4f66-bc95-c3f0994e1dd2: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:07:04Z INFO [268/854] 0bc8350a-096d-4224-87f0-bc5fe886342b: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:07:06Z INFO [269/854] 0bd83be0-0347-4824-b480-c46bd8ba471e: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:07:08Z INFO [270/854] 0bdb8ee4-695c-4095-bb63-a2033eef25f7: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:07:09Z INFO [271/854] 0be60969-6ece-4f12-8b30-bb65ef7f798f: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:07:10Z INFO [272/854] 0c14e51f-820e-41a0-b2b2-373ab4e8e2ea: 31 internal nodes; 1.0 s; peak memory 278 MiB.
+2026-10-27T17:07:12Z INFO [273/854] 0c228292-7c62-4dd9-abc0-08cff12aa868: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:07:13Z INFO [274/854] 0c244676-7959-45c8-924e-76104c4600e9: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:07:15Z INFO [275/854] 0c29cda5-278b-4192-87c6-2025f50f6871: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:07:17Z INFO [276/854] 0c33e013-4df2-46d1-9ced-c186d11657ca: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:07:18Z INFO [277/854] 0c440b41-599a-48b1-9e29-a9220b90b641: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:07:20Z INFO [278/854] 0c44418d-16ae-4512-8a93-dbc5a5a6e6b9: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:07:22Z INFO [279/854] 0c4ce2e2-38ec-417b-9e05-5034a5ada7aa: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:07:23Z INFO [280/854] 0c4ec73e-9a76-4296-9621-0fe140dd7079: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:07:25Z INFO [281/854] 0c525841-804d-454d-a5b2-b7dbc4944da5: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:07:27Z INFO [282/854] 0c546c72-4a00-4e8b-bea0-0c836a2b38b5: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:07:29Z INFO [283/854] 0c59a702-792e-441e-b40d-02c3a1efd6e6: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:07:30Z INFO [284/854] 0c5a5f54-c95b-47a5-8366-c32c160356d8: 31 internal nodes; 1.0 s; peak memory 278 MiB.
+2026-10-27T17:07:31Z INFO [285/854] 0c677b3c-8087-4b06-b75b-0ededa6094fd: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:07:33Z INFO [286/854] 0c789d05-fac1-416b-95a1-433c8600fb89: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:07:34Z INFO [287/854] 0c82cef8-3f86-4857-941d-3433efed13cb: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:07:36Z INFO [288/854] 0c844694-f12c-4a75-a973-3afac03e7b68: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:07:38Z INFO [289/854] 0c889fe0-e45d-4887-a132-4c2cc754f855: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:07:40Z INFO [290/854] 0c8cfe7a-bbdf-4fef-aa6c-ed0f0564680c: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:07:41Z INFO [291/854] 0c8e3524-8a3e-4c0a-92dd-0ff75bd534f1: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:07:43Z INFO [292/854] 0c95f98d-78ac-4d0e-833e-4457a1336a96: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:07:45Z INFO [293/854] 0c9b960e-4594-4e0d-8c99-18815acfa0c3: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:07:46Z INFO [294/854] 0ca81730-5a1a-45bd-86a9-58570d2b2d96: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:07:48Z INFO [295/854] 0ca8442d-6c93-4ade-8ee0-45dd44597a3b: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:07:49Z INFO [296/854] 0ca912c6-8cf6-4496-9ade-72a7cda09a76: 31 internal nodes; 1.0 s; peak memory 278 MiB.
+2026-10-27T17:07:50Z INFO [297/854] 0cabb3a4-1e4c-41ca-8a3b-ece522f2272f: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:07:52Z INFO [298/854] 0cb4af60-7865-44b0-b0f8-bc8e7d472038: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:07:54Z INFO [299/854] 0cb76704-6fa3-4011-b849-c26ea150f72c: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:07:56Z INFO [300/854] 0cb8bc9c-3e70-4d8c-a9d7-fd2babc4deae: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:07:56Z INFO [300/854] 0cb8bc9c-3e70-4d8c-a9d7-fd2babc4deae: checkpointed 180599 new records.
+2026-10-27T17:07:57Z INFO [301/854] 0cc3d6d0-46a9-4fab-8091-f3a5014692cb: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:07:59Z INFO [302/854] 0cc6d77d-ab2c-48c7-bf74-e47945cb0445: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:08:00Z INFO [303/854] 0cc96ae8-ab43-416b-bb8f-3b2ea59da3db: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:08:02Z INFO [304/854] 0cd77e40-a88f-44e6-b430-ed7272dcedce: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:08:04Z INFO [305/854] 0ce538a0-efac-4522-b9fe-ee119035f66e: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:08:05Z INFO [306/854] 0ce8379d-2bf3-435f-9379-ba58ab51f8ce: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:08:06Z INFO [307/854] 0ce90e67-fe65-4dc0-9663-3c2c93ba6896: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:08:08Z INFO [308/854] 0ced4b3e-a19e-461c-819b-2166165be11f: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:08:10Z INFO [309/854] 0cef7922-9f46-4b97-8ba3-9980f4265650: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:08:12Z INFO [310/854] 0d0a5703-ff0d-4620-b5b2-5ee1f9f6bd2b: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:08:13Z INFO [311/854] 0d0acfec-8d55-4854-82a7-454dbd4a9b0b: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:08:15Z INFO [312/854] 0d12e86e-60c5-4e64-b99d-6786369f4aba: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:08:16Z INFO [313/854] 0d18e294-0c45-40d6-a922-6be1f9331e97: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:08:18Z INFO [314/854] 0d20ca81-17d2-4e6f-8397-b7c48380337f: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:08:20Z INFO [315/854] 0d229f86-9275-4e09-8ac5-62fc210624e4: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:08:21Z INFO [316/854] 0d25b03f-31ba-4bcd-844c-3912098d0a86: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:08:23Z INFO [317/854] 0d2e69f2-c7c2-4b88-894b-6d580ad4e49a: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:08:24Z INFO [318/854] 0d36a334-0c32-4e77-bb70-33ec0ea2c397: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:08:26Z INFO [319/854] 0d3abae9-12a6-4d3e-9ed9-9ff5aef5c3b1: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:08:28Z INFO [320/854] 0d3bbda6-c85b-43d2-a97d-e25624f1f500: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:08:29Z INFO [321/854] 0d451a19-150a-43ec-bd7f-e1f2b34eeb99: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:08:31Z INFO [322/854] 0d48fd53-4ca4-4ab9-a594-47f4fe88275b: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:08:32Z INFO [323/854] 0d56f14f-5998-4fb2-970d-565e2def1d89: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:08:34Z INFO [324/854] 0d5fe773-18ce-4272-8e0f-fdf000e7aeab: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:08:36Z INFO [325/854] 0d69e427-72cc-4b15-a337-1e0cf00fb3fd: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:08:37Z INFO [326/854] 0d78b5b8-35b4-4352-aa96-1adc86b3693d: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:08:41Z INFO [327/854] 0d7e10c9-f54d-4f04-93f1-5ea2508a0106: 31 internal nodes; 3.4 s; peak memory 278 MiB.
+2026-10-27T17:08:42Z INFO [328/854] 0d950504-9896-463a-a530-5b8c13531d20: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:08:44Z INFO [329/854] 0d9ceff0-38f4-443a-bd61-97c09308b5a9: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:08:47Z INFO [330/854] 0d9d14dd-ba88-4a79-acb4-a322ca49d19b: 31 internal nodes; 2.5 s; peak memory 278 MiB.
+2026-10-27T17:08:48Z INFO [331/854] 0daf9e5c-a450-4767-bd9b-194c279c6c3a: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:08:50Z INFO [332/854] 0dd69480-48d7-42f9-baea-32ac1d49770c: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:08:52Z WARNING 0dec427d-4db4-44c3-988a-c37959ceaff3: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:08:52Z WARNING [333/854] 0dec427d-4db4-44c3-988a-c37959ceaff3: leaving unrecorded for a later run to retry.
+2026-10-27T17:08:53Z INFO [334/854] 0df868b7-4235-429f-95a7-58b38f6da7c6: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:08:55Z INFO [335/854] 0dfbef46-cf3d-4146-8b65-baddeafe2105: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:08:56Z INFO [336/854] 0e154208-dde1-4844-b8a7-d4bcb07daf6b: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:08:58Z INFO [337/854] 0e191cb3-1441-47f6-a984-1597cc40d613: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:09:00Z INFO [338/854] 0e2b7f74-2c94-4703-8e43-4c2951a4d67c: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:09:02Z INFO [339/854] 0e3032ba-ffe8-4532-a0ea-2245da6be45a: 31 internal nodes; 2.5 s; peak memory 278 MiB.
+2026-10-27T17:09:04Z INFO [340/854] 0e310c0a-9dea-4fa6-8ffd-bc408b4c65ce: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:09:06Z INFO [341/854] 0e3340d3-fd81-4c1a-92f6-294e17104de6: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:09:07Z INFO [342/854] 0e40f000-1970-46cd-a149-de04c989caa4: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:09:09Z INFO [343/854] 0e4af12c-4528-49b6-a40d-e9bfda0c54b7: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:09:11Z INFO [344/854] 0e59fa98-678e-4f49-9d06-1e54019c8c12: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:09:13Z INFO [345/854] 0e5fbc09-c40f-49bb-8678-2db71acea240: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:09:14Z INFO [346/854] 0e6dbb6a-f2c3-4458-af6f-4eb07eee0e73: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:09:15Z INFO [347/854] 0e6ee7e1-3c34-44b3-b429-070338d6d25c: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:09:17Z INFO [348/854] 0e728ac1-c672-4a1c-8b87-32b53d33c9fd: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:09:19Z INFO [349/854] 0e7771c3-ab66-48af-862a-1cad40635283: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:09:21Z INFO [350/854] 0e7c2ad7-fa7b-43dc-948f-6fea6f64c98f: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:09:21Z INFO [350/854] 0e7c2ad7-fa7b-43dc-948f-6fea6f64c98f: checkpointed 180648 new records.
+2026-10-27T17:09:22Z INFO [351/854] 0e921248-d186-4299-90cb-b70333b0053f: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:09:24Z INFO [352/854] 0ea05680-2d69-4dd0-8b7c-8075cc248eb2: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:09:25Z INFO [353/854] 0ebda2fd-6b1f-42fc-83cb-7a7b75673b60: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:09:27Z INFO [354/854] 0ebece3a-ce0d-43d9-a3d5-c91dd328ff87: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:09:29Z INFO [355/854] 0ec51836-5e85-4f64-b0c2-58f99449e432: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:09:30Z INFO [356/854] 0ecd389c-68b6-4c6c-b38a-39fea3a884ee: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:09:33Z INFO [357/854] 0ecf49e9-8397-4b05-af30-0c91e395fd9a: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:09:34Z INFO [358/854] 0ed18761-73ee-4f1e-8878-117bca0cfb96: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:09:36Z INFO [359/854] 0edbca66-b291-4c3e-9fdb-d73b78d52e08: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:09:37Z INFO [360/854] 0ee65644-ce4a-406e-a168-7e64120e8d1c: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:09:39Z INFO [361/854] 0eebb99d-91bb-4427-96c8-1f12f0698ce0: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:09:40Z INFO [362/854] 0ef51552-b8b2-4bfe-9bb7-6baa67c6fd76: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:09:42Z INFO [363/854] 0efa795f-da92-4696-bbeb-eced2aa58912: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:09:43Z INFO [364/854] 0f0aa1ff-1f4a-40dc-b9f4-52abf65fb6f5: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:09:44Z INFO [365/854] 0f115800-5dbe-4a03-b46a-71493838e7ee: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:09:46Z INFO [366/854] 0f1de24b-6546-42d5-887f-2adc41a0709a: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:09:47Z INFO [367/854] 0f26a82e-8114-4301-b1cf-415618688018: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:09:49Z INFO [368/854] 0f38f3d4-ecad-4522-836b-681b16c6737b: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:09:50Z INFO [369/854] 0f5b4ce7-4a47-49cd-a0ab-40237c060cf8: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:09:52Z INFO [370/854] 0f687379-042d-4dd7-86de-3869eec14c2f: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:09:54Z INFO [371/854] 0f6a48b6-15eb-4b4d-a2c9-ec670a7e4251: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:09:55Z INFO [372/854] 0f6e3cba-313e-474e-9d74-47a96a0e7962: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:09:57Z INFO [373/854] 0f721a1c-4708-4d86-9e06-09b06e51d12c: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:09:59Z WARNING 0f7396ad-67ec-468a-b6a6-5599cb507f54: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:09:59Z WARNING [374/854] 0f7396ad-67ec-468a-b6a6-5599cb507f54: leaving unrecorded for a later run to retry.
+2026-10-27T17:10:00Z INFO [375/854] 0f757ba9-53f6-4e7e-b822-09e5c449410e: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:10:02Z INFO [376/854] 0f89528b-7a4f-402c-9bc0-df73feb176f2: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:10:04Z INFO [377/854] 0f8f0a61-58e3-4337-b0bf-996d1367c53d: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:10:05Z INFO [378/854] 0f969294-d875-44b8-ae87-2d4d8ea41622: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:10:07Z INFO [379/854] 0fa1f400-d8fa-4f2b-8d54-253b89da43e2: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:10:08Z INFO [380/854] 0fa366e9-57cd-4fe4-a629-7051644ea7f6: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:10:10Z INFO [381/854] 0fb6d46e-81b0-4cc5-a3fe-877d358a5194: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:10:12Z INFO [382/854] 0fbb11c0-bb74-4d51-8c84-d00f54f1b94a: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:10:13Z INFO [383/854] 0fbe2321-f5c7-4dd9-946e-9f4ceb7963ff: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:10:15Z INFO [384/854] 0fc56b54-477e-44f3-b994-047cdcbe8eec: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:10:17Z INFO [385/854] 0fcc0c16-4105-4152-9884-d02f8d782d7e: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:10:18Z INFO [386/854] 0fed0b6d-28e0-429b-a20c-ef1bf0d43b9b: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:10:20Z INFO [387/854] 0fee9f39-6b24-44a3-8696-74eb66f2815a: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:10:21Z INFO [388/854] 0feee6d6-f431-4f7b-b28b-6f7e61df8e12: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:10:23Z INFO [389/854] 0ff32b34-e9a6-4d7a-be0f-d0e0a2e7f263: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:10:25Z INFO [390/854] 0ffa0a67-1160-4098-bde6-ee40f1da5a08: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:10:26Z INFO [391/854] 100074b0-504c-40a2-84d8-1dbe5f7f4b64: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:10:27Z INFO [392/854] 100b95ce-09b4-446b-821e-4b28b0d64f43: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:10:29Z INFO [393/854] 100f0d44-af25-424d-821b-672b309dbf0f: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:10:31Z INFO [394/854] 101a84f7-276c-4e1d-8654-28daab068c9a: 31 internal nodes; 2.5 s; peak memory 278 MiB.
+2026-10-27T17:10:33Z INFO [395/854] 102022d6-2471-4cfd-b729-4206cd7f2c2f: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:10:35Z INFO [396/854] 102874c8-75da-4b64-ac2c-8f4163438a37: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:10:38Z INFO [397/854] 1038d6ab-b421-4940-b45d-4a13aeceea28: 31 internal nodes; 3.3 s; peak memory 278 MiB.
+2026-10-27T17:10:40Z WARNING 1066b3ba-83d9-4cb3-bfe3-ecf8539e2334: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:10:40Z WARNING [398/854] 1066b3ba-83d9-4cb3-bfe3-ecf8539e2334: leaving unrecorded for a later run to retry.
+2026-10-27T17:10:41Z INFO [399/854] 10742580-5877-4062-9b00-8f990e1ddd17: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:10:43Z INFO [400/854] 107ca507-53f5-46a6-addf-35e6e8a8109a: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:10:43Z INFO [400/854] 107ca507-53f5-46a6-addf-35e6e8a8109a: checkpointed 180696 new records.
+2026-10-27T17:10:44Z INFO [401/854] 107dea02-8142-4afe-b5e5-41340dadd792: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:10:45Z INFO [402/854] 1092980a-e0a2-46d0-b29c-4b35685c0e14: 31 internal nodes; 1.0 s; peak memory 278 MiB.
+2026-10-27T17:10:47Z INFO [403/854] 10a13666-6514-4b99-b587-7b5a41a9e8a1: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:10:49Z INFO [404/854] 10afabb0-7291-48f0-a088-32a4e9e65544: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:10:50Z INFO [405/854] 10b06d37-a5c8-4604-a9e4-13a5129bba99: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:10:53Z INFO [406/854] 10c04148-bf9b-4171-ac72-481a7b38d064: 31 internal nodes; 3.0 s; peak memory 278 MiB.
+2026-10-27T17:10:55Z INFO [407/854] 10c56496-344a-4d25-ae27-938bc7f448d0: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:10:57Z INFO [408/854] 10cd0d8b-05bb-4f8a-829b-f7af91c28381: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:10:58Z INFO [409/854] 10d18433-7e3a-470c-8cd6-06b13c31b3a9: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:11:00Z INFO [410/854] 10df90c5-4137-4d23-801e-5bb75ef0054a: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:11:01Z INFO [411/854] 10ef3168-6f71-44c0-a94c-1806b141b3e6: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:11:04Z INFO [412/854] 10f9642f-184a-4452-ab76-57f26f227aed: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:11:07Z INFO [413/854] 11051f29-9bae-47bc-a330-2ec642d1ea9f: 31 internal nodes; 2.9 s; peak memory 278 MiB.
+2026-10-27T17:11:08Z INFO [414/854] 110597a5-adc3-4634-a41b-24f643561c86: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:11:10Z INFO [415/854] 110655e1-72b1-45e2-b1e5-352e76147f93: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:11:11Z INFO [416/854] 1108d3cf-9505-427f-bca4-1b9b3b6e3994: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:11:13Z INFO [417/854] 110f0378-e011-47e1-9c67-20929ba2eb2b: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:11:15Z INFO [418/854] 1119bc8c-853c-43e6-93a7-e3ef95b1b904: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:11:16Z INFO [419/854] 112723ed-e444-485d-873b-7d46449f9073: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:11:18Z INFO [420/854] 112a4183-47d1-4f9a-8ff3-1b8ab68ddf50: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:11:19Z INFO [421/854] 112f775f-2913-4e09-852f-58948dc0ed75: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:11:22Z INFO [422/854] 113b609e-0522-49e9-9b0b-ef6e7e69ddf2: 31 internal nodes; 2.7 s; peak memory 278 MiB.
+2026-10-27T17:11:24Z INFO [423/854] 113ce127-45eb-408e-8fd0-8ed4e9657095: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:11:25Z INFO [424/854] 11453e0e-084d-4a1e-8cc2-d5530615a108: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:11:27Z INFO [425/854] 114e8e97-5e2b-4331-8220-cf4e5f0d9d62: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:11:29Z INFO [426/854] 114fbc45-9ecc-4b15-ac50-fdfcb6b0753e: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:11:30Z INFO [427/854] 1172d8d8-e9ea-4cee-b1b5-f7d8237359bb: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:11:32Z INFO [428/854] 11753f31-58de-4cb2-9b98-56da9f26ec53: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:11:33Z INFO [429/854] 117b0ad0-a154-4406-9708-d334a8f2c8b8: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:11:35Z INFO [430/854] 1190e5ba-7eed-4d22-8851-f49a4c7774b4: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:11:37Z INFO [431/854] 119a8898-0949-4422-bdfb-bfed7552e4a7: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:11:38Z INFO [432/854] 119c062a-1b69-440e-9359-0777e4165afa: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:11:41Z INFO [433/854] 11a21c4f-ebb4-400c-ae20-a5f66ece0799: 31 internal nodes; 3.0 s; peak memory 278 MiB.
+2026-10-27T17:11:43Z INFO [434/854] 11a70d7a-931f-46e7-9c1f-8807a11a2cbb: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:11:44Z INFO [435/854] 11b91bfb-e159-4565-b96b-c446d5bce624: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:11:45Z INFO [436/854] 11c76914-c1e4-4f07-947c-733478a35191: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:11:47Z INFO [437/854] 11ccf4dc-81ab-4ca0-a4a5-e8802c49cf23: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:11:49Z INFO [438/854] 11d31e44-7043-4abe-b6cf-2bb57d6ff73a: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:11:50Z INFO [439/854] 11e5cceb-a911-4ac9-b0ac-3fda2967a983: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:11:52Z INFO [440/854] 11ec3cb8-57fa-4e8b-8f0f-6fbe64a339f4: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:11:54Z INFO [441/854] 11f2bd39-4d9f-42ee-abc1-fd3765dc4e27: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:11:56Z INFO [442/854] 11f9ac0f-74cc-4181-8c20-418a36e8111e: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:11:58Z INFO [443/854] 11faecc8-7db9-4a5f-a655-c85d3ba470b2: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:11:59Z INFO [444/854] 11fe45e5-47c5-4f05-9ed2-388e11557112: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:12:01Z INFO [445/854] 1201a2db-1303-45aa-bab8-e74cefc530b8: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:12:02Z INFO [446/854] 120d285d-fa94-4704-9ee4-a3736a4c962a: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:12:04Z INFO [447/854] 120debc9-21c6-40f0-9f2f-92dacbfb1f41: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:12:05Z INFO [448/854] 121a91df-c0f3-46a6-bb98-e8d632711b97: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:12:07Z INFO [449/854] 121d3949-967d-4fb3-9d53-f0a0e6b0dea1: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:12:09Z INFO [450/854] 121eb93e-1b0e-41ec-9c1c-f5650874fd80: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:12:09Z INFO [450/854] 121eb93e-1b0e-41ec-9c1c-f5650874fd80: checkpointed 180746 new records.
+2026-10-27T17:12:11Z INFO [451/854] 1224c2ce-e1a1-4df7-8d5a-45db991aa2cd: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:12:12Z INFO [452/854] 1225cd78-4a55-46a0-91c4-6411c5694853: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:12:14Z INFO [453/854] 122ea6a1-c1ec-4c6f-a4b0-29434afcf825: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:12:16Z INFO [454/854] 122f9419-27d0-4375-83d9-ae15cdce954c: 31 internal nodes; 2.4 s; peak memory 278 MiB.
+2026-10-27T17:12:18Z INFO [455/854] 1236649e-0b38-40aa-ab1b-3a0f020f4849: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:12:20Z INFO [456/854] 124b7019-cf90-4b6f-b75b-6f160c3b24f0: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:12:22Z INFO [457/854] 126c0693-0dc0-486c-8269-800a21f21647: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:12:23Z INFO [458/854] 127a9fcb-3d66-4fbf-a87b-726074959996: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:12:25Z INFO [459/854] 127f3851-cda7-4db3-871c-4c922594255f: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:12:27Z INFO [460/854] 128f57b0-6460-485e-809c-111cc72566c3: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:12:28Z INFO [461/854] 1299a4c9-23f7-4494-8f75-f8095ee6add1: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:12:30Z INFO [462/854] 129af1e3-5086-4e87-8a71-7d0ff354bc54: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:12:31Z INFO [463/854] 12abdd4d-006a-49dd-bc8c-6a57fb52ae57: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:12:33Z INFO [464/854] 12ce2532-1b52-4a3c-a622-74fbb11baebb: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:12:34Z INFO [465/854] 12e60f50-5004-40e7-b24c-6dd6222b7b0b: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:12:36Z INFO [466/854] 12e6965a-4c75-4b92-9ac6-bab47d9488ef: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:12:38Z INFO [467/854] 12eadf93-a5db-4e53-bf14-7e82684f972e: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:12:39Z INFO [468/854] 12eba257-058f-4988-932c-b761b440cc5b: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:12:41Z INFO [469/854] 12f69aad-0b10-4e1c-bf1a-0dd65db55e76: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:12:43Z INFO [470/854] 12f80db5-b9ee-4009-b083-f2bbef18dd72: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:12:45Z INFO [471/854] 12f903d0-7818-46ce-8452-84c93f96299b: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:12:46Z INFO [472/854] 12fd4b8c-5a61-4129-82d8-291c84232922: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:12:48Z INFO [473/854] 131bae51-d8a1-48bc-a46e-3fd6311cec64: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:12:50Z INFO [474/854] 132ca30c-643a-4e3e-ad20-3cf67e7c5a16: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:12:51Z INFO [475/854] 132feb01-7208-4412-aec3-13df3bb01e0a: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:12:52Z INFO [476/854] 133951fb-0cba-4de1-a1f1-6038522488f9: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:12:54Z INFO [477/854] 13531404-d654-484f-9472-14ddf2808f85: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:12:56Z INFO [478/854] 1357b2cd-f4fb-472f-8cea-7602f9caa086: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:12:57Z INFO [479/854] 1380abe6-453e-4935-9366-766c8cc5104a: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:12:58Z INFO [480/854] 138fa799-b95c-4c14-9e54-379393bf349f: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:13:00Z INFO [481/854] 13aba844-5584-4538-9ce8-6a2911d01bee: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:13:01Z INFO [482/854] 13acf8cd-9270-42aa-bd50-794df3da53f3: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:13:03Z INFO [483/854] 13d53765-4b5b-44ce-a53c-e1daa3f71c2f: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:13:04Z INFO [484/854] 140a28f4-60c9-4681-9492-eec5cf57cae9: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:13:06Z INFO [485/854] 140d2968-c6bc-421b-8d62-874a56eaa53a: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:13:08Z INFO [486/854] 14149394-4776-4e77-98b5-8793571cf05b: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:13:09Z INFO [487/854] 141ce7b9-952e-487c-9d9e-ed73ea399162: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:13:11Z INFO [488/854] 142cb3a7-b3f2-4a18-ab28-0c2c35cb1e3f: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:13:13Z INFO [489/854] 143f8ff6-c511-41b6-b5e4-0da9179ab0d8: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:13:15Z INFO [490/854] 1453a063-1a62-4ec8-885e-f06870f0d914: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:13:16Z INFO [491/854] 145bf41c-992a-40bb-9a47-9cff7a50a082: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:13:18Z INFO [492/854] 1463e821-32d8-487d-9146-e46b08ec3fd7: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:13:19Z INFO [493/854] 1480655e-75fc-4e66-b0d6-30c51bad2d36: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:13:21Z INFO [494/854] 1486eaaa-eb89-4844-beff-178560f77267: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:13:22Z INFO [495/854] 148dc34a-5d68-48f6-aa8b-8105d79f508c: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:13:24Z INFO [496/854] 148e3633-2424-40e0-8c1a-2559fc8fb30d: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:13:25Z INFO [497/854] 149979e0-870b-432e-8672-41944375931b: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:13:27Z INFO [498/854] 14a37edb-708e-4066-b622-ae11bffebccb: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:13:29Z INFO [499/854] 14ad008f-d4f9-45ea-835e-8da806c7f407: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:13:32Z INFO [500/854] 14ce16db-0280-49cb-a062-220b914a0b12: 31 internal nodes; 3.4 s; peak memory 278 MiB.
+2026-10-27T17:13:32Z INFO [500/854] 14ce16db-0280-49cb-a062-220b914a0b12: checkpointed 180796 new records.
+2026-10-27T17:13:34Z INFO [501/854] 14d4702f-cc83-498c-9942-5b9f8af7836c: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:13:35Z INFO [502/854] 14dfedbc-f449-4edc-90d6-bd216799c854: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:13:37Z INFO [503/854] 14e1d41f-7c9a-4f24-91de-43f11ee96293: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:13:38Z INFO [504/854] 15001974-9b36-49d2-a387-0f978a1fbbb6: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:13:40Z INFO [505/854] 1503d391-12c2-4eb9-acb5-e453cb9a704b: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:13:42Z INFO [506/854] 1516374e-ea95-492d-9788-7f2989d20d08: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:13:43Z INFO [507/854] 151e191d-cf70-45a9-8ae8-4fe718b2aa45: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:13:45Z INFO [508/854] 152f5289-38e7-4274-a2f7-44faa050618e: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:13:46Z INFO [509/854] 15303852-5ceb-473e-a3a6-c10bcaf6a2e4: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:13:48Z INFO [510/854] 154f2028-5e07-4735-a9ef-54d2e060ecce: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:13:49Z INFO [511/854] 155a7a8d-13b8-47fd-be3a-2c601f910797: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:13:51Z INFO [512/854] 155bd3be-a828-45b5-aab7-ecf075853afe: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:13:52Z INFO [513/854] 15759853-98c0-4059-abf7-a5b0303d79b2: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:13:54Z INFO [514/854] 157add63-dab0-4435-ba8f-d51115d6462b: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:13:56Z INFO [515/854] 1585165d-a693-45e2-a0e1-40f7291493c7: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:13:58Z INFO [516/854] 1590939e-a23d-4ac8-9f50-41cbe82be8f8: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:13:59Z INFO [517/854] 159493f3-566b-47fd-80bb-3c9dbf2ad864: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:14:00Z INFO [518/854] 15a1f02f-ce1b-4085-8256-66bfa40568d7: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:02Z INFO [519/854] 15a82473-c725-4cc7-96d4-f9777d5881f5: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:14:03Z INFO [520/854] 15b3651f-1451-427a-a2dd-286899a50913: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:14:05Z INFO [521/854] 15bd277b-d310-4ead-a226-df16eb061f3c: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:14:07Z INFO [522/854] 15c68e23-e1f4-49d7-9db3-d7e92ac88e4f: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:14:08Z INFO [523/854] 15c9e56c-7674-4391-9ee6-7fa08ac198e0: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:14:10Z INFO [524/854] 15d30502-e807-4b2e-9f63-4163ff8c8646: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:12Z INFO [525/854] 15e43677-9c67-4b6f-b3cc-a28a05b91be7: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:14:13Z INFO [526/854] 15e9b7ab-a22e-411c-bce1-2906c5407ea3: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:15Z INFO [527/854] 15ede816-e863-476f-84aa-3f7eddd7d451: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:16Z INFO [528/854] 15fb8a55-ba13-42cb-ba65-eb76e8651390: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:18Z INFO [529/854] 160936c6-4495-4344-add9-3cd3875cfe9b: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:14:20Z INFO [530/854] 16106dac-6c8e-4197-9343-1f9d11754dae: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:21Z INFO [531/854] 1622c779-f74b-4caa-9ed0-7da6038cc1d1: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:23Z INFO [532/854] 1637994a-98bd-4b15-a6c6-602fcd864d4b: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:14:25Z INFO [533/854] 163b6521-6f08-4bc4-969a-6a82bf645466: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:14:26Z INFO [534/854] 163c23b1-991e-4621-aac1-489c33e0230d: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:14:28Z INFO [535/854] 165bfb0e-f50f-4900-ad96-383f2f6a0465: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:14:30Z INFO [536/854] 16732b02-5912-4a63-8ede-01057e15238e: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:14:31Z INFO [537/854] 16825b70-8b6a-4d86-813c-cd84849d8c05: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:14:33Z INFO [538/854] 168aae0a-7d3d-4bc6-b7b3-7ee6b421115e: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:34Z INFO [539/854] 1691bc94-de84-4143-a700-e722413c8e74: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:14:36Z INFO [540/854] 16b8632b-5bb2-4d7d-b13f-71a3f2379a6a: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:14:37Z INFO [541/854] 16bc38eb-1844-4a22-ab48-17f8144ccf8d: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:14:38Z INFO [542/854] 16d37850-885d-4290-a35d-ecf28561397a: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:14:40Z INFO [543/854] 16d5d98a-898a-41d4-bf65-65d8be1a816e: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:14:41Z INFO [544/854] 16ddb7ca-bd4c-4bc7-87de-5c0736e177c8: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:43Z INFO [545/854] 16f8fb93-294b-4a83-80f1-1dfdd10b5d8f: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:14:45Z INFO [546/854] 17106970-454f-4cd0-b841-dc7358429bf2: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:14:46Z INFO [547/854] 1710dc8d-93ff-4b6b-ad88-f18161a95718: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:14:48Z INFO [548/854] 171795ed-1e87-41b3-8125-0c959bf2843c: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:49Z INFO [549/854] 17291002-eec2-4f99-8b30-9eb79739baeb: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:14:52Z INFO [550/854] 1733f396-2185-49c1-8b76-cc3bb21aa078: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:14:52Z INFO [550/854] 1733f396-2185-49c1-8b76-cc3bb21aa078: checkpointed 180846 new records.
+2026-10-27T17:14:53Z INFO [551/854] 17395af2-b7ac-4c26-a404-a60fe1309d2e: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:14:55Z INFO [552/854] 1744f1e2-1a4c-4b67-b638-8f678e52eca7: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:14:57Z INFO [553/854] 17473996-5b48-413b-9beb-a158123f0211: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:14:58Z INFO [554/854] 174d73f9-1690-4acb-8777-f18f6565d1ca: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:14:59Z INFO [555/854] 175718b6-ce3f-4084-8414-269d6aeb3fd3: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:15:01Z INFO [556/854] 177befc2-77b4-40ba-ae3f-6e4b12068bbb: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:15:03Z INFO [557/854] 177e9c2b-9b98-44b9-b310-ce55f3be7421: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:15:04Z INFO [558/854] 178b7e53-378f-4314-b063-af1056b5683f: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:15:05Z INFO [559/854] 17a4b62d-2e09-418a-91c0-1e9578d25388: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:15:07Z WARNING 17a546c4-6425-4c56-a43e-9f9f272d299c: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:15:07Z WARNING [560/854] 17a546c4-6425-4c56-a43e-9f9f272d299c: leaving unrecorded for a later run to retry.
+2026-10-27T17:15:09Z INFO [561/854] 17a6bb2d-9f54-4412-a079-414e3db7fd7a: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:15:11Z INFO [562/854] 17aeba44-6411-4b3a-ab84-8ab0f4cd5335: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:15:12Z INFO [563/854] 17c80cbe-5af2-4e25-851a-b6fa76a2760b: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:15:13Z INFO [564/854] 17d451cb-a350-462a-b9da-8d7b6758f8a0: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:15:15Z INFO [565/854] 17d46aa6-4e27-43ec-b367-434cb3540fa1: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:15:16Z INFO [566/854] 17d60698-81cf-4066-b7c6-d12e0b52e4f2: 31 internal nodes; 1.0 s; peak memory 278 MiB.
+2026-10-27T17:15:18Z INFO [567/854] 17e564d7-e229-4d16-9925-11aec8a0a1e4: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:15:20Z INFO [568/854] 17f6f872-7fcc-4913-8eb9-4081088df245: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:15:21Z INFO [569/854] 18138e6f-376f-4557-a43c-eb7d94f48d48: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:15:23Z INFO [570/854] 18184f31-345d-4eac-a791-274526deb6b7: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:15:24Z INFO [571/854] 181f2cdb-030e-44d6-b208-7fdd0224a8bc: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:15:26Z INFO [572/854] 18245060-04b8-4efc-9320-50225d1bacdc: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:15:28Z INFO [573/854] 182c1686-ff13-48b9-8845-a7357412b442: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:15:29Z INFO [574/854] 1837c224-9552-4526-a5fd-ab40fee73f9f: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:15:31Z INFO [575/854] 183b1cff-eb15-490a-912c-48ee4d51673d: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:15:32Z INFO [576/854] 183b8613-a701-4d33-b3fa-48e01e3d0dcb: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:15:34Z INFO [577/854] 18447fce-d4bf-4cba-95cb-5fce0e27fec3: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:15:35Z INFO [578/854] 184b3d45-5d26-40d7-b2c2-62471a9713b5: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:15:37Z INFO [579/854] 18597564-ef05-4d66-aaf8-50b6dd19100e: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:15:39Z INFO [580/854] 187022ce-896b-40cc-8c46-3c0d93feedb3: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:15:40Z INFO [581/854] 1871b085-0f10-4548-99a0-bb6d65516632: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:15:42Z INFO [582/854] 1876ae8e-af14-489c-a7ac-d14d5ed6e3b3: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:15:44Z INFO [583/854] 1878ad9d-9fc1-4abc-9a8c-5a0933bcd833: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:15:45Z INFO [584/854] 187e0457-ab81-419a-a997-ae6d4d44f900: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:15:47Z INFO [585/854] 1881e79f-a1bd-4337-87cb-72ea4b8bc021: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:15:48Z INFO [586/854] 188dfbb3-3525-48af-81ee-fa901b516a58: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:15:51Z INFO [587/854] 1893be75-2236-4406-a25d-62ccbca8fabc: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:15:52Z INFO [588/854] 18a5264e-ccae-4ee1-a223-13a779556699: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:15:53Z INFO [589/854] 18b1dabd-41e8-4e86-a320-e88ee33c42ba: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:15:55Z INFO [590/854] 18b8c413-9604-4c1f-83f3-e29864e62fc1: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:15:57Z INFO [591/854] 18bbd85f-3933-4a61-b86d-ddfb638dd1cf: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:15:59Z INFO [592/854] 18cacc50-3e85-4c85-bd3a-17b06485377b: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:16:00Z INFO [593/854] 18cdeeb4-d8eb-4a59-93de-44ec2536acb9: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:16:02Z INFO [594/854] 18d4eeaf-3287-455b-8f74-82b9b2427601: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:16:04Z INFO [595/854] 18d78935-b8ea-464d-8662-8e8962dae045: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:05Z INFO [596/854] 18eece49-dcc8-4a62-a48b-90ac490a5527: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:16:07Z INFO [597/854] 18f046f4-c020-4b8b-a563-e15b19ba3050: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:16:09Z INFO [598/854] 18fe2235-fffc-4a6f-981f-eb4669124ec9: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:11Z INFO [599/854] 1904a2a7-2e21-4dc3-9d9f-de0478e9135a: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:16:12Z INFO [600/854] 190518be-03fa-481b-bcd7-26f3b60ed9cd: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:16:12Z INFO [600/854] 190518be-03fa-481b-bcd7-26f3b60ed9cd: checkpointed 180895 new records.
+2026-10-27T17:16:14Z INFO [601/854] 1908c3fb-ebd4-495c-b03f-b94e3eb46f82: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:16:15Z INFO [602/854] 190fcba1-2e1b-4e17-9a76-4d74e1565bd2: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:16:17Z INFO [603/854] 191cab6d-c1c6-4c5a-b2f8-e2407583a688: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:18Z INFO [604/854] 193c9b88-f0bf-4e86-a6f3-0b1ff76fe1cd: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:20Z INFO [605/854] 194ad736-c067-4ab0-9adf-1d8be8632edf: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:21Z INFO [606/854] 195a0b16-f8db-45e8-b668-7ae8285f4531: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:16:22Z INFO [607/854] 195c74e1-21be-4359-8ee2-7e9b4c7ceeb9: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:16:24Z INFO [608/854] 1960faed-d34f-4087-995e-fcfa7fe014e2: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:16:25Z INFO [609/854] 196c1b0a-f11e-4a9a-aa72-09bfc570b9f9: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:16:27Z INFO [610/854] 197706cc-445d-45e8-9cdb-c6a9f4e9ad18: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:28Z INFO [611/854] 1979baf8-6781-43ff-afc8-907f7eade35d: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:16:30Z INFO [612/854] 197f0ed8-979f-4d3f-b94b-4342c03ae3d6: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:32Z INFO [613/854] 1980a877-b35e-461c-b61d-983671f5ec28: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:33Z INFO [614/854] 1990f582-128b-4725-b9d1-7aec4b16f84c: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:16:35Z WARNING 19998990-d06f-40db-8d07-c5121b317b6a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:16:35Z WARNING [615/854] 19998990-d06f-40db-8d07-c5121b317b6a: leaving unrecorded for a later run to retry.
+2026-10-27T17:16:36Z INFO [616/854] 19a32df5-4efd-490e-a62d-9e1244c6eb6f: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:16:38Z INFO [617/854] 19a77523-831d-41e1-8c80-c0c271e0c988: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:16:40Z INFO [618/854] 19b58398-0dc7-4656-aeac-239136c4c3d2: 31 internal nodes; 2.5 s; peak memory 278 MiB.
+2026-10-27T17:16:42Z INFO [619/854] 19bc5bd7-b8dd-4e50-b858-ecfaa9f7e9c1: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:44Z INFO [620/854] 19c38c43-e2e9-489e-a465-a6c3ceb92aa1: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:45Z INFO [621/854] 19d17663-eed2-414c-a089-f4e1a68864b5: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:16:47Z INFO [622/854] 19d44b0b-19f0-489b-b502-d9e92051fa19: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:16:49Z INFO [623/854] 19de0813-c638-4ea2-9660-af5e94ecb467: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:16:50Z INFO [624/854] 19e62a2f-2c3f-447a-9cfc-5b3b87b49118: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:16:52Z INFO [625/854] 19ec088e-96cd-4ff0-8aca-164c3c209097: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:16:54Z INFO [626/854] 1a04c6c0-c12c-44bd-b7dc-b9f260618089: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:16:55Z WARNING 1a18ed31-9155-4512-919f-b6875d14b9f3: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:16:55Z WARNING [627/854] 1a18ed31-9155-4512-919f-b6875d14b9f3: leaving unrecorded for a later run to retry.
+2026-10-27T17:16:57Z INFO [628/854] 1a2d06d1-d4af-4f27-9bda-4485f88a225f: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:16:58Z INFO [629/854] 1a5061a0-fbf4-4372-ae45-30105f48bb5c: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:17:00Z INFO [630/854] 1a534c53-a4b1-446a-a8c1-06475eef2dee: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:17:02Z INFO [631/854] 1a5cc611-75ad-4da2-bca6-c6069822528d: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:17:04Z INFO [632/854] 1a657799-e6a6-45a6-935a-57daac46d69f: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:17:05Z INFO [633/854] 1a75e589-7f5e-4514-aca1-756c730e07c3: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:17:07Z INFO [634/854] 1a79dcd4-138e-4661-9727-dd70575ca052: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:17:08Z INFO [635/854] 1a7eecab-4657-4dd1-8233-0a9aeb053c6a: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:17:11Z INFO [636/854] 1a8a5f2b-8cd3-4ec9-a36d-d82b8326b73a: 31 internal nodes; 2.9 s; peak memory 278 MiB.
+2026-10-27T17:17:12Z INFO [637/854] 1aa16aee-2919-47ab-a234-0d5c3ae07333: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:17:14Z INFO [638/854] 1aa77faf-4e5b-4886-a147-a8a9e01f87c3: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:17:16Z INFO [639/854] 1aaece52-8c7e-49ca-a00b-af7433674af7: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:17:18Z INFO [640/854] 1aafa90c-523a-442d-8fbc-6e4d12a4b0d9: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:17:19Z INFO [641/854] 1ab4ae54-9f8a-477a-a70f-e8308466c41b: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:17:20Z INFO [642/854] 1ab77bb8-8bac-408c-9190-3b2d1dbf3a4b: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:17:22Z INFO [643/854] 1ab7aaf2-0670-441f-af07-1d77551cdc9e: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:17:24Z INFO [644/854] 1ac1dfab-837d-4c43-88cb-35c301f406ce: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:17:25Z INFO [645/854] 1ad857ee-556f-46fb-adbf-de4f5a6572e5: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:17:27Z INFO [646/854] 1ad9c53c-ddfb-4220-b092-4df1a9170a0a: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:17:29Z INFO [647/854] 1ae0bc4c-57d0-4996-bed6-0949cff95abe: 31 internal nodes; 2.8 s; peak memory 278 MiB.
+2026-10-27T17:17:31Z INFO [648/854] 1ae325ef-012d-45fd-93f4-ebd2ae486482: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:17:33Z INFO [649/854] 1af10039-7635-4167-9759-df14893202fc: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:17:34Z INFO [650/854] 1af635e0-ef16-467d-bbb5-7cf5b34f48dc: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:17:34Z INFO [650/854] 1af635e0-ef16-467d-bbb5-7cf5b34f48dc: checkpointed 180943 new records.
+2026-10-27T17:17:37Z INFO [651/854] 1aff46eb-fcd5-4a4e-8448-a9dbcacad945: 31 internal nodes; 3.2 s; peak memory 278 MiB.
+2026-10-27T17:17:39Z INFO [652/854] 1b3a8e64-daea-47c9-a170-9e7e73fa5205: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:17:40Z INFO [653/854] 1b405e5a-e2c6-4964-8f23-19b33d344338: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:17:42Z INFO [654/854] 1b49f935-121d-4ab3-a85c-9fb7d5fadeef: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:17:43Z INFO [655/854] 1b56c7cc-5073-44bc-a7b5-1adf2d13ba4d: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:17:45Z INFO [656/854] 1b857b8b-d728-44bb-8f41-3f2a95d1683d: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:17:46Z INFO [657/854] 1b9a1078-5ef2-4295-8c09-13d18b5742d9: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:17:49Z INFO [658/854] 1ba819c9-32dd-4851-919d-659317d4f6a3: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:17:50Z INFO [659/854] 1bbc5211-6d61-4479-a3f1-fb58a719869e: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:17:52Z INFO [660/854] 1bbe9de6-af27-4dd2-852f-75b96fee603c: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:17:54Z INFO [661/854] 1bbf82ba-9df4-4cc5-b0cd-d43dff28d2cc: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:17:56Z INFO [662/854] 1bcd7763-f333-4e7a-909a-dc036fdee123: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:17:58Z INFO [663/854] 1bd2afb8-d0d1-4567-8501-f0b2256cc0da: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:17:59Z INFO [664/854] 1bd6d4b2-3bf7-4ef2-9b4f-d3a94ab81273: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:18:02Z INFO [665/854] 1beff940-2b49-4af8-b840-51bc20f6222d: 31 internal nodes; 2.4 s; peak memory 278 MiB.
+2026-10-27T17:18:03Z INFO [666/854] 1c01daa2-1103-4110-be4d-568ea6699f21: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:05Z INFO [667/854] 1c039a91-47a9-4474-a4bf-ce9ca2ea8acf: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:18:06Z INFO [668/854] 1c05027b-bca1-4ac3-a378-412a5de5a842: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:08Z INFO [669/854] 1c0c2a42-7cf1-4b85-8dd3-167fc22a3a18: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:18:10Z INFO [670/854] 1c0d37be-4697-4602-ade7-6b7c7405e69a: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:18:12Z INFO [671/854] 1c182ef7-3c87-43bf-8aac-e2c2756f50e0: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:14Z INFO [672/854] 1c18b4c4-1b06-4901-b009-b9ec9f899087: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:18:15Z INFO [673/854] 1c1c5d97-5216-48fc-ab07-17addd5fd233: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:18:18Z INFO [674/854] 1c2a06d8-0b0b-48c8-b3f7-4fb1f4328585: 31 internal nodes; 2.7 s; peak memory 278 MiB.
+2026-10-27T17:18:19Z WARNING 1c2fff6f-f3a7-43fb-b7e2-a33218d41614: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:18:19Z WARNING [675/854] 1c2fff6f-f3a7-43fb-b7e2-a33218d41614: leaving unrecorded for a later run to retry.
+2026-10-27T17:18:21Z INFO [676/854] 1c303e83-942f-42a0-9955-a6d113d517bd: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:18:22Z INFO [677/854] 1c39c7f7-d5c7-4ca0-a1ab-f00e207a2d42: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:18:24Z INFO [678/854] 1c46429f-9a2c-446b-8f7b-5d4e31df3bbd: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:25Z INFO [679/854] 1c541b58-6db6-4bff-975f-e74bad25393e: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:18:27Z INFO [680/854] 1c55202d-1432-4796-8207-c95bcd40792c: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:18:29Z INFO [681/854] 1c6789e0-9b07-407d-bbb4-f1d6de7f56b0: 31 internal nodes; 2.4 s; peak memory 278 MiB.
+2026-10-27T17:18:31Z INFO [682/854] 1c6b9343-e02f-46f7-976e-750a474e66e4: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:18:33Z INFO [683/854] 1c76fa93-5652-4db1-ad55-6254e143bfaf: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:18:34Z INFO [684/854] 1c77e841-1ab7-4718-add5-30ccb827e813: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:18:36Z INFO [685/854] 1c7fdfd3-3694-43c1-8728-abb4836cbb62: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:38Z INFO [686/854] 1c80c4ec-679b-48eb-bd53-f54c50a7ff95: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:18:39Z INFO [687/854] 1c85c15e-2948-4b6b-a750-094b0d00ba4f: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:18:41Z INFO [688/854] 1c86e9dc-2c53-4a99-bb9b-114329fdd9ed: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:42Z INFO [689/854] 1c89485c-3b47-4180-b398-b22e23c0b0f2: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:44Z INFO [690/854] 1c9d5025-e239-4feb-a384-90e9b9a57e33: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:18:46Z INFO [691/854] 1ca3032c-f904-4258-a74f-acea3ac67922: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:18:48Z INFO [692/854] 1cadc6e6-e3d8-4f4b-8260-aed41c258d1d: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:18:49Z INFO [693/854] 1cb02cb3-6960-4bd7-9f0c-4d5a734f56a3: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:18:51Z INFO [694/854] 1cb7d8ba-9344-41a6-bca9-74edf8272a47: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:53Z INFO [695/854] 1cc10e80-569b-4f2d-9a97-863a463ad8a9: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:54Z INFO [696/854] 1cd64d4b-dfa4-4016-8fac-e9e573167690: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:56Z INFO [697/854] 1ce7aec6-6eef-4388-9755-1204d935f8c1: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:18:57Z INFO [698/854] 1ce9d44f-ed85-43e9-85ba-9fe157970b43: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:18:59Z INFO [699/854] 1ce9faa8-567d-4119-906e-4d9eba000760: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:19:01Z INFO [700/854] 1ceab6ca-c7b9-4141-be33-bffc915f62a7: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:19:01Z INFO [700/854] 1ceab6ca-c7b9-4141-be33-bffc915f62a7: checkpointed 180992 new records.
+2026-10-27T17:19:03Z INFO [701/854] 1cec43d1-cf82-48e4-b998-21b03d5b18d1: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:19:04Z INFO [702/854] 1d1aa080-5942-4804-b657-7a6ae1db66af: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:19:06Z INFO [703/854] 1d1cf06e-430e-4e0c-af2c-8b188d6af445: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:19:08Z INFO [704/854] 1d34a91c-edb7-4d83-81ae-898f8206cdbb: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:19:10Z INFO [705/854] 1d3d052f-f99b-4754-ab2e-e6afb2263df6: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:19:11Z INFO [706/854] 1d3f7f4a-5734-4dc2-999b-70cb4f974dde: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:19:13Z INFO [707/854] 1d422829-e399-422c-8f56-da2fe7dfcbd3: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:19:15Z INFO [708/854] 1d430c38-05b2-4aff-a09b-d0ed9b290581: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:19:16Z INFO [709/854] 1d43297a-4b5e-4362-b572-51ff03ef57bd: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:19:18Z INFO [710/854] 1d4be22b-f1fa-442c-bc11-4f5a3d539146: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:19:20Z INFO [711/854] 1d4d2ee6-6b58-44f9-9671-15e8facc19ed: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:19:21Z INFO [712/854] 1d4e6e88-0126-4d14-a9de-a13132014a6d: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:19:23Z INFO [713/854] 1d50acb3-1e40-49c6-95cb-957bb96d49c5: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:19:25Z INFO [714/854] 1d728d28-c218-49a4-8b33-320e95b3ba20: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:19:27Z INFO [715/854] 1d76ff53-749f-4a05-9764-758762d8320b: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:19:28Z INFO [716/854] 1d78867d-1b40-46e5-b956-4c9adc51e877: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:19:30Z INFO [717/854] 1d862df6-4c8c-4d03-a437-3b84645ff5d4: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:19:31Z INFO [718/854] 1daed615-e21a-4655-92f5-7e0aa03bec9a: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:19:33Z INFO [719/854] 1db43ca7-a7a5-45e6-936a-417dab1cf4fe: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:19:34Z INFO [720/854] 1dbec5fc-09d2-4352-ae50-7880c70f685c: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:19:36Z INFO [721/854] 1dbfd02a-0fa4-48a4-b6ab-6984e3dee8f5: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:19:37Z INFO [722/854] 1dd035dd-7880-4f9f-8471-e50f1fc45a37: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:19:39Z INFO [723/854] 1dd70a8d-3dcf-45c4-9792-6239d543dfb1: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:19:41Z INFO [724/854] 1dd7ebae-ef30-4ad5-a0e4-fc9eb3912555: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:19:42Z INFO [725/854] 1ddb22d7-a46b-4563-9228-7e9ae5a39e3f: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:19:45Z INFO [726/854] 1de8e04f-ae0a-4d43-95f0-0d4cdb2dac39: 31 internal nodes; 3.2 s; peak memory 278 MiB.
+2026-10-27T17:19:47Z INFO [727/854] 1e03725c-6534-42bb-98d5-92edaff66593: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:19:49Z INFO [728/854] 1e116c90-4f76-421c-bced-0f26b419d673: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:19:50Z INFO [729/854] 1e145ab5-f601-4dc3-a5c1-940230f045c5: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:19:52Z INFO [730/854] 1e1fcf31-1a3f-4530-b178-750dc060a9a3: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:19:54Z INFO [731/854] 1e1fdfa3-0645-4286-a197-591f4b172247: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:19:55Z INFO [732/854] 1e2a0652-2979-45a2-9b39-e90321b7213b: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:19:58Z INFO [733/854] 1e4b2a7c-1a37-4cdd-9251-c29eb6e339cf: 31 internal nodes; 2.3 s; peak memory 278 MiB.
+2026-10-27T17:19:59Z INFO [734/854] 1e50c3ee-a486-41f7-92d9-c1dfb3ad6f8b: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:20:00Z INFO [735/854] 1e532131-12ca-4b2d-acd6-b4b216421fae: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:20:02Z INFO [736/854] 1e57ee48-8322-4a19-a550-84ada56ab0fd: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:20:04Z INFO [737/854] 1e710603-f41d-4c28-9260-ad4097b526bb: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:20:06Z INFO [738/854] 1e7f03e8-3bef-4ffe-8326-fee5a28948db: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:20:07Z INFO [739/854] 1e815560-d482-431e-a430-1bfc014df0a4: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:20:09Z INFO [740/854] 1e875591-be68-4145-adc1-21ae6b7400b5: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:20:10Z INFO [741/854] 1e9e0a92-44f5-4949-b51d-9f20799615bd: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:20:12Z INFO [742/854] 1e9e9986-5c03-42d1-b02b-23b4f5112c3d: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:20:14Z INFO [743/854] 1ea3391e-49f3-4428-b610-7c20c960e31c: 31 internal nodes; 2.1 s; peak memory 278 MiB.
+2026-10-27T17:20:15Z INFO [744/854] 1ea57eab-f6f7-4ecc-8b41-9a42e977148d: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:20:16Z INFO [745/854] 1eb81c1d-35a3-4716-9454-4cd8b238bc18: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:20:18Z INFO [746/854] 1ec41cfa-2b59-4cb6-8809-a307991db18a: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:20:20Z INFO [747/854] 1ecc8bbc-d301-4ede-9fdf-6662ea899721: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:20:21Z INFO [748/854] 1ef339b3-bbd9-4939-aa3d-ad7a406c451b: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:20:23Z INFO [749/854] 1ef41e78-ac0b-48c7-a16e-eb24124d7a69: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:20:24Z INFO [750/854] 1ef4a516-ad01-4197-b005-c48a4c2f101e: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:20:24Z INFO [750/854] 1ef4a516-ad01-4197-b005-c48a4c2f101e: checkpointed 181042 new records.
+2026-10-27T17:20:26Z INFO [751/854] 1ef95931-cc7a-4daf-9b95-1af67c99bbef: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:20:27Z INFO [752/854] 1f0fb71c-6070-45c8-b11b-5662fad91576: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:20:29Z INFO [753/854] 1f201e2a-4c00-4a94-92e0-e6f3f051ac42: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:20:30Z INFO [754/854] 1f3878cf-d86f-443e-8a05-761f3119dd66: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:20:32Z INFO [755/854] 1f5852bb-0b7c-4402-8a75-c7f3ff55e83f: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:20:34Z INFO [756/854] 1f6ff7ae-ee4b-450e-8ff0-668f0683dc00: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:20:35Z INFO [757/854] 1f7283d1-352a-49b0-8b4d-f56af7512fb5: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:20:37Z INFO [758/854] 1f7942ba-3d37-452a-95c5-777331638e4b: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:20:38Z INFO [759/854] 1f7f452c-9c19-4ec9-ad3c-a9b2e980afe9: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:20:39Z INFO [760/854] 1f8bdb11-dff5-4a10-818b-c73a2cfcb381: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:20:41Z INFO [761/854] 1f9687ef-926b-415f-9168-213263cc2db2: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:20:43Z INFO [762/854] 1fa7f7d3-cc37-4393-889a-1eb3dfa87773: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:20:44Z INFO [763/854] 1fa91829-209f-4bcd-94f9-8fa7de3acb77: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:20:46Z INFO [764/854] 1fb33b03-b558-4009-91e0-f48f09c96688: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:20:47Z INFO [765/854] 1fb964fd-d7fe-4245-a4b0-e9dd9aacc62d: 31 internal nodes; 1.2 s; peak memory 278 MiB.
+2026-10-27T17:20:49Z INFO [766/854] 1fc59f30-fd41-4395-b3ca-f3c76fb14856: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:20:50Z INFO [767/854] 1fd041a1-e6cf-46ad-92ff-eecc5941eed9: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:20:52Z INFO [768/854] 1fd92695-602c-4590-858b-f6cb4a3370a5: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:20:54Z INFO [769/854] 1fe646bc-dd65-45a2-93d5-b6585e0dc6c5: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:20:55Z INFO [770/854] 1fea5cad-99f3-4756-bd00-c7e425646531: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:20:57Z INFO [771/854] 200620cf-456f-4243-a9ac-d30248cb0b34: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:20:59Z INFO [772/854] 20186f83-49fc-44e0-a3f2-928e5a687cc2: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:21:00Z INFO [773/854] 20365b27-70f1-406a-a9f8-56e8e9dbbbad: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:21:02Z INFO [774/854] 2045ad6c-b958-46dd-99f6-bccf885b5c6e: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:21:03Z INFO [775/854] 204a5e5c-ab37-4ed6-b661-743f7cf5c80e: 31 internal nodes; 1.3 s; peak memory 278 MiB.
+2026-10-27T17:21:05Z INFO [776/854] 2065da73-d70a-4dc3-a38e-d6460aa05b6d: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:21:06Z INFO [777/854] 2066cb94-b58c-49a9-849c-ba14a6bb32e6: 31 internal nodes; 1.1 s; peak memory 278 MiB.
+2026-10-27T17:21:07Z INFO [778/854] 2085a052-bb60-4d84-8f8f-9ec18aa71054: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:21:10Z INFO [779/854] 208ba145-b9ad-4ac5-b824-88a26a76e4e5: 31 internal nodes; 2.2 s; peak memory 278 MiB.
+2026-10-27T17:21:12Z INFO [780/854] 20a2aa16-8609-414e-9558-7beb607eca53: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:21:14Z INFO [781/854] 20a59129-7561-4954-aec7-f791e2b28453: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:21:15Z WARNING 20b5d243-5a61-4246-a5d5-ac9d9068183d: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:15Z WARNING [782/854] 20b5d243-5a61-4246-a5d5-ac9d9068183d: leaving unrecorded for a later run to retry.
+2026-10-27T17:21:17Z INFO [783/854] 20c094f9-db9a-40e4-9020-9c5208cb4600: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:21:18Z INFO [784/854] 20c2477d-bedd-431b-88cf-b15dd430621f: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:21:20Z INFO [785/854] 20cbb8b7-8708-4f0a-acff-fcd8e64bfef0: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:21:21Z INFO [786/854] 20cd7765-5b49-4434-aa8b-355c95c75c7b: 31 internal nodes; 1.4 s; peak memory 278 MiB.
+2026-10-27T17:21:23Z INFO [787/854] 20d848e3-7113-4dea-a25a-b6f99e25cf15: 31 internal nodes; 2.0 s; peak memory 278 MiB.
+2026-10-27T17:21:25Z INFO [788/854] 20defd21-cf5d-4ca3-8dd5-e614b53ed076: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:21:27Z WARNING 20e4b649-b593-4ee3-bd02-f0645aad7021: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:27Z WARNING [789/854] 20e4b649-b593-4ee3-bd02-f0645aad7021: leaving unrecorded for a later run to retry.
+2026-10-27T17:21:28Z INFO [790/854] 20f000b8-4061-4e9d-b478-ce4e4d49416d: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:21:30Z INFO [791/854] 20f4c05c-be12-42f3-8755-3b05e5de79ee: 31 internal nodes; 1.9 s; peak memory 278 MiB.
+2026-10-27T17:21:32Z INFO [792/854] 20fac345-6977-4b88-9144-89a8e9bea3e1: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:21:33Z INFO [793/854] 20fcc3c1-13d2-4aa3-ba2f-ac4c3df7edcd: 31 internal nodes; 1.5 s; peak memory 278 MiB.
+2026-10-27T17:21:35Z INFO [794/854] 21168f86-4d4e-4474-b770-0c89626013e7: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:21:36Z INFO [795/854] 212ba913-fd88-4e21-b67f-e0ca9015597c: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:21:38Z INFO [796/854] 212e6a05-47a0-4f7b-b821-0be839798579: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:21:40Z INFO [797/854] 2133a822-fff2-4684-bab2-3d51520af6e0: 31 internal nodes; 1.6 s; peak memory 278 MiB.
+2026-10-27T17:21:41Z INFO [798/854] 2134fb80-63c1-42b2-8bab-49a11f905e29: 31 internal nodes; 1.7 s; peak memory 278 MiB.
+2026-10-27T17:21:43Z INFO [799/854] 213f3bd3-effa-4d06-a08e-078a991c352d: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:21:45Z INFO [800/854] 214e107a-eb36-4dfc-8907-b2150e80a66d: 31 internal nodes; 1.8 s; peak memory 278 MiB.
+2026-10-27T17:21:45Z INFO [800/854] 214e107a-eb36-4dfc-8907-b2150e80a66d: checkpointed 181090 new records.
+2026-10-27T17:21:47Z WARNING 2420003b-b350-4a69-b1aa-b27f68179823: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:47Z WARNING [801/854] 2420003b-b350-4a69-b1aa-b27f68179823: leaving unrecorded for a later run to retry.
+2026-10-27T17:21:48Z WARNING 2a76c0ae-11ba-4712-bfc9-5a1534c26aeb: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:48Z WARNING [802/854] 2a76c0ae-11ba-4712-bfc9-5a1534c26aeb: leaving unrecorded for a later run to retry.
+2026-10-27T17:21:50Z WARNING 319d22c8-6c6e-41bb-9bf9-9c6773d2b2ad: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:50Z WARNING [803/854] 319d22c8-6c6e-41bb-9bf9-9c6773d2b2ad: leaving unrecorded for a later run to retry.
+2026-10-27T17:21:52Z WARNING 324ccb4d-b81e-4dbb-a29d-ef474eef0d50: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:52Z WARNING [804/854] 324ccb4d-b81e-4dbb-a29d-ef474eef0d50: leaving unrecorded for a later run to retry.
+2026-10-27T17:21:53Z WARNING 3b2672c0-01e2-4e2a-a6fd-09535b8afd67: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:53Z WARNING [805/854] 3b2672c0-01e2-4e2a-a6fd-09535b8afd67: leaving unrecorded for a later run to retry.
+2026-10-27T17:21:55Z WARNING 3dec1e5e-7a4c-4aaa-95eb-7a953aa18d59: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:55Z WARNING [806/854] 3dec1e5e-7a4c-4aaa-95eb-7a953aa18d59: leaving unrecorded for a later run to retry.
+2026-10-27T17:21:56Z WARNING 40d7f442-8923-4dd5-87cb-af432218c083: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:56Z WARNING [807/854] 40d7f442-8923-4dd5-87cb-af432218c083: leaving unrecorded for a later run to retry.
+2026-10-27T17:21:58Z WARNING 4255c687-2c9c-4ffc-83b6-08157b521931: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:21:58Z WARNING [808/854] 4255c687-2c9c-4ffc-83b6-08157b521931: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:00Z WARNING 43addd0b-0674-4137-8eaa-9df790dee1ce: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:00Z WARNING [809/854] 43addd0b-0674-4137-8eaa-9df790dee1ce: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:02Z WARNING 59beae01-8c63-4353-a90b-e97078f0ecde: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:02Z WARNING [810/854] 59beae01-8c63-4353-a90b-e97078f0ecde: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:04Z WARNING 6a997180-d683-4d9d-9b90-05b7dc97c11c: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:04Z WARNING [811/854] 6a997180-d683-4d9d-9b90-05b7dc97c11c: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:06Z WARNING 6aa6bd0b-2ee9-4b1c-ae04-8288b68d12ff: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:06Z WARNING [812/854] 6aa6bd0b-2ee9-4b1c-ae04-8288b68d12ff: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:07Z WARNING 6aae1939-4782-4088-b5f7-42ef42d4db39: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:07Z WARNING [813/854] 6aae1939-4782-4088-b5f7-42ef42d4db39: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:09Z WARNING 6d423b55-67f8-42c9-9dee-caa73708d896: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:09Z WARNING [814/854] 6d423b55-67f8-42c9-9dee-caa73708d896: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:11Z WARNING 735c7449-7e23-44fa-8990-d5c55f725aa2: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:11Z WARNING [815/854] 735c7449-7e23-44fa-8990-d5c55f725aa2: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:12Z WARNING 75dc9b6e-40d1-4c10-8d75-71e6d60a1109: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:12Z WARNING [816/854] 75dc9b6e-40d1-4c10-8d75-71e6d60a1109: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:14Z WARNING 75e93a30-06d1-4377-ac24-e439b70138bf: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:14Z WARNING [817/854] 75e93a30-06d1-4377-ac24-e439b70138bf: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:15Z WARNING 79d6c03f-a5ad-43d3-a8c3-a13e7b361f24: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:15Z WARNING [818/854] 79d6c03f-a5ad-43d3-a8c3-a13e7b361f24: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:17Z WARNING 80e5eff2-6863-4038-9302-675d85163951: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:17Z WARNING [819/854] 80e5eff2-6863-4038-9302-675d85163951: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:18Z WARNING 8485f502-7092-4934-80fe-dc37dd3a4c16: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:18Z WARNING [820/854] 8485f502-7092-4934-80fe-dc37dd3a4c16: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:20Z WARNING 85df85c4-6672-4675-9bb8-5e82e44e0f88: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:20Z WARNING [821/854] 85df85c4-6672-4675-9bb8-5e82e44e0f88: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:21Z WARNING 87fdf428-ebbd-4376-85b5-341f14f18593: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:21Z WARNING [822/854] 87fdf428-ebbd-4376-85b5-341f14f18593: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:23Z WARNING 8f0183a2-f90f-4b15-8fac-1ca3a404a100: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:23Z WARNING [823/854] 8f0183a2-f90f-4b15-8fac-1ca3a404a100: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:24Z WARNING 9078e86c-42d8-47e9-a68b-72aaef5868b8: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:24Z WARNING [824/854] 9078e86c-42d8-47e9-a68b-72aaef5868b8: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:26Z WARNING 907b3a91-92b0-49da-9d8a-a9ce5b752d18: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:26Z WARNING [825/854] 907b3a91-92b0-49da-9d8a-a9ce5b752d18: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:27Z WARNING 91d0f104-6918-47ae-8959-2116c86ee157: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:27Z WARNING [826/854] 91d0f104-6918-47ae-8959-2116c86ee157: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:29Z WARNING 969e4747-5a03-4948-bad1-05be9db18f9a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:29Z WARNING [827/854] 969e4747-5a03-4948-bad1-05be9db18f9a: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:31Z WARNING 96fcc9d3-cbe9-4aaa-986b-aaaf8831ed40: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:31Z WARNING [828/854] 96fcc9d3-cbe9-4aaa-986b-aaaf8831ed40: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:32Z WARNING 98c46e12-f90f-4286-b1c2-15acdc057e25: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:32Z WARNING [829/854] 98c46e12-f90f-4286-b1c2-15acdc057e25: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:34Z WARNING 9f0feaa9-adb3-4487-afb9-d4f49f1acdc6: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:34Z WARNING [830/854] 9f0feaa9-adb3-4487-afb9-d4f49f1acdc6: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:36Z WARNING a5c144c2-f4f0-4c1e-9c08-2b521f863a3b: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:36Z WARNING [831/854] a5c144c2-f4f0-4c1e-9c08-2b521f863a3b: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:37Z WARNING a8b6a037-6a71-4569-91a5-b9a166b789a9: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:37Z WARNING [832/854] a8b6a037-6a71-4569-91a5-b9a166b789a9: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:39Z WARNING ad5b0970-92ee-45ed-9ade-ec72ab7c0c43: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:39Z WARNING [833/854] ad5b0970-92ee-45ed-9ade-ec72ab7c0c43: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:40Z WARNING af8f8d1e-890e-40fb-8b99-bcfbd9dafa86: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:40Z WARNING [834/854] af8f8d1e-890e-40fb-8b99-bcfbd9dafa86: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:42Z WARNING b359ad1b-7ba4-48e8-a318-3a5df59e0611: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:42Z WARNING [835/854] b359ad1b-7ba4-48e8-a318-3a5df59e0611: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:44Z WARNING b90ff2fd-f7e7-41b9-939a-f8612e2c9ba9: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:44Z WARNING [836/854] b90ff2fd-f7e7-41b9-939a-f8612e2c9ba9: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:45Z WARNING c30d8e04-35d5-46ae-89c1-f0ad78152437: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:45Z WARNING [837/854] c30d8e04-35d5-46ae-89c1-f0ad78152437: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:47Z WARNING c75892b0-e896-47ce-9be6-aaf7fff0b0bc: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:47Z WARNING [838/854] c75892b0-e896-47ce-9be6-aaf7fff0b0bc: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:48Z WARNING ced3426c-8c04-4668-a901-8fb5c9b9e30a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:48Z WARNING [839/854] ced3426c-8c04-4668-a901-8fb5c9b9e30a: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:50Z WARNING cf14fab4-8ffa-4429-9633-4621077abaf8: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:50Z WARNING [840/854] cf14fab4-8ffa-4429-9633-4621077abaf8: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:52Z WARNING cf2e939f-f590-43e2-b209-c14bcd9ec7be: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:52Z WARNING [841/854] cf2e939f-f590-43e2-b209-c14bcd9ec7be: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:53Z WARNING d082e3f4-951c-4756-a246-45664b4b6617: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:53Z WARNING [842/854] d082e3f4-951c-4756-a246-45664b4b6617: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:55Z WARNING d1b31cf9-4a0a-4d3b-b7b6-209a40241c19: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:55Z WARNING [843/854] d1b31cf9-4a0a-4d3b-b7b6-209a40241c19: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:56Z WARNING d40f5b68-7e95-4fd2-9b61-fcc7804b6b27: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:56Z WARNING [844/854] d40f5b68-7e95-4fd2-9b61-fcc7804b6b27: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:58Z WARNING d73cb2c7-2e04-4c75-ba50-9b634dc8e8fb: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:58Z WARNING [845/854] d73cb2c7-2e04-4c75-ba50-9b634dc8e8fb: leaving unrecorded for a later run to retry.
+2026-10-27T17:22:59Z WARNING e0405d5b-a2a4-4a81-b77d-85e24bf8aaba: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:22:59Z WARNING [846/854] e0405d5b-a2a4-4a81-b77d-85e24bf8aaba: leaving unrecorded for a later run to retry.
+2026-10-27T17:23:01Z WARNING e9d08dad-69f2-41af-95a7-8c926d323241: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:23:01Z WARNING [847/854] e9d08dad-69f2-41af-95a7-8c926d323241: leaving unrecorded for a later run to retry.
+2026-10-27T17:23:02Z WARNING ec910d11-a407-4e11-b6b7-7e72bd6dcca7: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:23:02Z WARNING [848/854] ec910d11-a407-4e11-b6b7-7e72bd6dcca7: leaving unrecorded for a later run to retry.
+2026-10-27T17:23:04Z WARNING ecf5ec80-5d04-4618-8d36-5e8b6a518db7: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:23:04Z WARNING [849/854] ecf5ec80-5d04-4618-8d36-5e8b6a518db7: leaving unrecorded for a later run to retry.
+2026-10-27T17:23:06Z WARNING ed0ae43b-b9f4-49b7-80b0-b0e7e1bfe4b2: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:23:06Z WARNING [850/854] ed0ae43b-b9f4-49b7-80b0-b0e7e1bfe4b2: leaving unrecorded for a later run to retry.
+2026-10-27T17:23:06Z INFO [850/854] ed0ae43b-b9f4-49b7-80b0-b0e7e1bfe4b2: checkpointed 181090 new records.
+2026-10-27T17:23:07Z WARNING f096214e-4bb0-48ca-8c77-fa5832318eae: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:23:07Z WARNING [851/854] f096214e-4bb0-48ca-8c77-fa5832318eae: leaving unrecorded for a later run to retry.
+2026-10-27T17:23:09Z WARNING f33dbc0f-9f9e-4645-ba23-6ddb643fd950: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:23:09Z WARNING [852/854] f33dbc0f-9f9e-4645-ba23-6ddb643fd950: leaving unrecorded for a later run to retry.
+2026-10-27T17:23:11Z WARNING fba185e3-7f0f-490c-89da-5d6f063bbb64: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:23:11Z WARNING [853/854] fba185e3-7f0f-490c-89da-5d6f063bbb64: leaving unrecorded for a later run to retry.
+2026-10-27T17:23:12Z WARNING fecca3e5-bf07-41fe-8342-06a92259564a: failed while reading the NWB file (KeyError: 'Unable to synchronously open object (component not found)')
+2026-10-27T17:23:12Z WARNING [854/854] fecca3e5-bf07-41fe-8342-06a92259564a: leaving unrecorded for a later run to retry.
+2026-10-27T17:23:12Z INFO Wrote 181090 records to /tmp/derivatives/valid_nwb_file_to_out_degrees.zarr (789 new, 65 failed) in 23.7 min (peak memory 436 MiB).
+2026-10-27T17:23:12Z INFO Progress: 181,066 of 181,131 candidates recorded (100.0%).
